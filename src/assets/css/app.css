@@ -1,0 +1,37 @@
+/* @import "core/theme.css";
+
+@import "core/button.css";
+@import "core/code.css";
+@import "core/default.css";
+@import "core/font.css";
+@import "core/footer.css";
+@import "core/forms.css";
+@import "core/frames.css";
+@import "core/header.css";
+@import "core/layout.css";
+@import "core/links.css";
+@import "core/lists.css";
+@import "core/media.css";
+@import "core/modal.css";
+@import "core/table.css";
+@import "core/util.css";
+
+@import "ext/animations.css";
+@import "ext/avatar.css";
+@import "ext/form-ext.css";
+@import "ext/grid.css";
+@import "ext/link-ext.css";
+@import "ext/modifiers.css";
+@import "ext/pagination.css";
+@import "ext/placeholder.css";
+@import "ext/tabs.css";
+@import "ext/tags.css";
+@import "ext/tiles.css";
+@import "ext/toast.css";
+@import "ext/tooltips.css";
+ */
+
+ .area-link {
+   display: inline-block;
+   padding: 0.25rem 1rem;
+ }

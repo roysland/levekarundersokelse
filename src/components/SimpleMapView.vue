@@ -4,6 +4,24 @@
       <div class="col">
         Area: <strong>{{clickedArea}}</strong>
       </div>
+      <div class="col">
+        <label>Area:</label>
+        <select class="form-control" v-model="dataset" @change="loadDataSet">
+          <option v-for="(source, index) in $store.state.sources" :key="index" :value="index">
+            {{source.name}}
+          </option>
+        </select>
+      </div>
+      <div class="col">
+        <div v-if="currentDataSet.years.length > 0">
+        <label>Kilder</label>
+        <select class="form-control">
+          <option v-for="year in currentDataSet.years" :key="year">
+            {{year}}
+          </option>
+        </select>
+        </div>
+      </div>
     </div>
     <div class="map-container">
     <mapbox
@@ -13,8 +31,8 @@
         show: true,
         position: 'top-left',
       }"
-      @map-init="mapInit"
       @map-load="loaded"
+      @map-zoomend="zoomend"
       @map-click:area="clicked"
       @geolocate-error="geolocateError"
       @geolocate-geolocate="geolocate"
@@ -36,18 +54,18 @@
       @geolocate-error="geolocateError"
       @geolocate-geolocate="geolocate"
     /> -->
-    <div class="map-overlay" id="map-overlay" ref="mapOverlay" v-if="bydel && clickedArea">
+    <div class="map-overlay" id="map-overlay" ref="mapOverlay" v-if="clickedArea">
       <div class="card">
         <div class="card-header">
-          {{bydel.name}}
+          {{clickedArea}}
           <button type="button" class="close" data-dismiss="alert" aria-label="Close" @click="clickedArea = null">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="card-body">
-          <h5 class="card-title">{{clickedArea}}</h5>
-          <p>Data</p>
-          <router-link :to="`/${bydel.name}/${clickedArea}`" class="btn btn-primary">Go somewhere</router-link>
+          <h5 class="card-title">Special title treatment</h5>
+          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
       </div>
     </div>
@@ -58,56 +76,32 @@
 <script>
 import Mapbox from 'mapbox-gl-vue'
 import Axios from 'axios'
-import bydeler from '@/assets/data/bydeler.json'
 export default {
   components: { Mapbox },
   data () {
     return {
       token: 'pk.eyJ1Ijoib2xlam9yIiwiYSI6ImNqcXh6N3U5MjAzZzI0Mm1qbXNtN2N2ZDAifQ.6bbUsWNXftwfUjmm8asUgA',
-      map: null,
       mapOptions: {
-        style: 'mapbox://styles/mapbox/light-v10',
+        style: 'mapbox://styles/mapbox/light-v9',
         center: [5.7000000000000, 59.00000000000000],
         zoom: 10
       },
       dataset: 0,
+      currentDataSet: {
+        minMax: [],
+        data: null,
+        years: [],
+        indicator: null,
+        parameter: null
+      },
       selectedArea: null,
-      selectedBydel: null,
       clickedArea: null,
       mapOverlay: {
         points: { x: 0, y: 0 }
       }
     }
   },
-  computed: {
-    bydel () {
-      if (this.clickedArea) {
-        let id = parseInt(this.clickedArea.match(/(\d+)/g)[0])
-        if (id !== 99) {
-          return this.$store.state.bydeler.filter((bydel) => {
-            return bydel.areas.indexOf(id) > -1
-          })[0]
-        } else {
-          return null
-        }
-      } else {
-        return null
-      }
-    }
-  },
   methods: {
-    mapInit (map) {
-      console.log(map)
-      this.map = map
-    },
-    addCurrentLayer (map) {
-      map.addLayer({
-        id: 'current-layer',
-        source: 'areas',
-        type: 'fill',
-        filter: ['==', '$type', 'Polygon']
-      })
-    },
     loadDataSet () {
       const set = this.$store.state.sources[this.dataset]
       Axios.get(set.url)
@@ -127,6 +121,9 @@ export default {
       const values = data.map((d) => { return parseFloat(d['Variabel']) })
       const set = [...new Set(values)]
       return set
+    },
+    zoomend (map, e) {
+      console.log('Map zoomed')
     },
     clicked (map, e) {
       // const title = e.features[0].properties.Streng
@@ -181,26 +178,6 @@ export default {
         },
         generateId: true
       })
-      // Bydeler
-      map.addSource('bydeler', {
-        type: 'geojson',
-        data: bydeler
-      })
-      map.addLayer({
-        id: 'bydelLayer',
-        type: 'fill',
-        source: 'bydeler',
-        layout: {},
-        paint: {
-          'fill-color': {
-            property: 'bydelNr',
-            stops: [[0, '#fff'], [1, 'green'], [2, 'blue'], [3, 'red'], [4, 'orange'], [5, 'lime'], [6, 'magenta'], [7, 'pink']]
-          },
-          'fill-opacity': 0.5
-        },
-        filter: ['==', '$type', 'Polygon']
-      })
-
       map.addLayer({
         id: 'area',
         type: 'fill',
@@ -239,6 +216,9 @@ export default {
         filter: ['in', 'properties']
       }) */
     }
+  },
+  mounted () {
+    this.$store.dispatch('getZones')
   }
 }
 </script>
