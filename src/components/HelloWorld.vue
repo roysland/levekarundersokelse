@@ -41,8 +41,8 @@
         </div>
         <div class="card-body">
           <h5 class="card-title">{{clickedArea}}</h5>
-          <p>Data</p>
-          <router-link :to="`/${bydel.name}/${clickedArea}`" class="btn btn-primary">Go somewhere</router-link>
+          <p>Sammenlign {{clickedArea}} med {{bydel.name}} og resten av Stavanger</p>
+          <router-link :to="`/${bydel.name}/${clickedArea}`" class="btn btn-primary">Se detaljer</router-link>
         </div>
       </div>
     </div>

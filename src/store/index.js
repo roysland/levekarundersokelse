@@ -83,15 +83,10 @@ export default new Vuex.Store({
   actions: {
     async getZones ({ commit }) {
       let response
-      try {
-        response = await Axios.get('https://opencom.no/dataset/b2d56845-f78e-4c45-ac33-3f0cebda3e63/resource/b0ed941f-d928-40f3-8f1b-a30c11040dae/download/levekarssoner.json')
-          .then((response) => {
-            commit('SET_ZONES', response.data)
-          })
-      } catch (error) {
-        console.log(error.msg)
-        return
-      }
+      response = await Axios.get('https://opencom.no/dataset/b2d56845-f78e-4c45-ac33-3f0cebda3e63/resource/b0ed941f-d928-40f3-8f1b-a30c11040dae/download/levekarssoner.json')
+        .then((response) => {
+          commit('SET_ZONES', response.data)
+        })
       return response
     },
     utflyttinger () {
