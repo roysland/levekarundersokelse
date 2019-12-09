@@ -60,7 +60,8 @@ export default new Vuex.Store({
       }
     ],
     bydeler: bydelsoner,
-    bydelskart: bydelskart
+    bydelskart: bydelskart,
+    tree: null
   },
   mutations: {
     'SET_ZONES' (state, payload) {
@@ -74,6 +75,9 @@ export default new Vuex.Store({
           areal: z.properties.Areal
         }
       })
+    },
+    'SET_BYDELS_TREE' (state, payload) {
+      state.tree = payload
     }
   },
   actions: {

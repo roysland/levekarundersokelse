@@ -1,0 +1,37 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  li { margin: 0; padding: 0;}
+}
+
+.list.single .list-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-decoration: none;
+  padding: 0.25rem 1rem;
+  color: inherit;
+  .action {
+    margin-left: auto;
+  }
+}
+
+.list.double .list-item, .list-item-double {
+  display: flex;
+  text-decoration: none;
+  padding: 0.25rem 1rem;
+  color: inherit;
+  align-items: center;
+  .content {
+    flex-grow: 2;
+    flex-wrap: wrap;
+    display: flex;
+    .line {
+      width: 100%;
+    }
+  }
+}
+.panel-inverse .list-item-double {
+  color: #fff;
+}

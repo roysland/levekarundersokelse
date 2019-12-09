@@ -1,10 +1,10 @@
 <template>
   <div v-if="ready" class="container">
     <nav aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item"><router-link to="/">Stavanger</router-link></li>
-        <li class="breadcrumb-item active">{{$route.params.bydel}}</li>
-      </ol>
+      <div class="breadcrumbs">
+        <div class="breadcrumbs-item"><router-link to="/">Stavanger</router-link></div>
+        <div class="breadcrumbs-item">{{$route.params.bydel}}</div>
+      </div>
     </nav>
     <div class="row">
       <router-link class="area-link" v-for="zone in zones" :key="zone.id" :to="`/${$route.params.bydel}/${zone.id} ${zone.name}`">{{zone.name}}</router-link>
@@ -17,7 +17,7 @@
 
     <div class="row">
       <div class="col-xs-12 col-md-6">
-        <area-svg :area="area" bydel></area-svg>
+        <area-svg :area="$route.params.bydel" bydel></area-svg>
       </div>
       <div class="col-xs-12 col-md-6">
         <!-- <higcharts :options="chartOptions"></higcharts> -->

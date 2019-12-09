@@ -1,4 +1,4 @@
-/* @import "core/theme.css";
+@import "core/theme.css";
 
 @import "core/button.css";
 @import "core/code.css";
@@ -29,7 +29,7 @@
 @import "ext/tiles.css";
 @import "ext/toast.css";
 @import "ext/tooltips.css";
- */
+
 
  .area-link {
    display: inline-block;

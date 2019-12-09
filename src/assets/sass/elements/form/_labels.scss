@@ -1,0 +1,61 @@
+.form-group {
+  margin-bottom: 1rem;
+}
+.form-label {
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-weight: 600;
+  text-rendering: geometricPrecision;
+  display: block;
+  color: color('grey-dark');
+
+  @include theme() {
+    color: t('text');
+  }
+}
+
+.form-hint, .form-text {
+  margin-top: 4px;
+  margin-bottom: 0;
+  font-size: 12px;
+  line-height: 16px;
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica', 'Arial', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  font-weight: 400;
+  text-transform: none;
+  text-rendering: geometricPrecision;
+  display: block;
+  color: #76797f;
+  @include theme() {
+    color: t('muted');
+  }
+}
+
+.form-group.addon {
+  display: flex;
+  &.left {
+    .label {
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      order: 1;
+    }
+    .form-input {
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      order: 2;
+    }
+  }
+
+  &.right {
+    .label {
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      order: 2;
+    }
+    .form-input {
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      order: 1;
+    }
+  }
+}

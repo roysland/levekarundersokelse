@@ -1,0 +1,26 @@
+/* .breadcrumb {
+  margin: 0;
+  padding: 0;
+}
+.breadcrumb-item {
+  display: inline-block;
+  margin-left: -0.35em;
+  white-space: nowrap;
+  list-style: none;
+  font-size: 12px !important;
+  a {
+    cursor: pointer;
+  }
+  &:first-child {
+    margin-left: 0;
+  }
+  &:after {
+    padding-right: .5em;
+    padding-left: .5em;
+    color: #e1e4e8;
+    content: "/";
+  }
+  &:last-child:after {
+    display: none;
+  }
+} */

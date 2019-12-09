@@ -1,0 +1,55 @@
+.progress {
+  box-shadow: none;
+  background: rgba(0,0,0,.1);
+  padding: 0;
+  border-radius: .28571429rem;
+  position: relative;
+  display: block;
+  max-width: 100%;
+  border: none;
+  margin: 1em 0 2.5em;
+  .bar {
+    min-width: 2em;
+    @include theme() {
+      background-color: t('border')
+    }
+    border-radius: .28571429rem;
+    display: block;
+    line-height: 1;
+    position: relative;
+    height: 1.75em;
+    transition: width .1s ease,background-color .1s ease;
+    width: 49%;
+    .number {
+      white-space: nowrap;
+      position: absolute;
+      width: auto;
+      font-size: .75rem;
+      top: 50%;
+      right: .5em;
+      left: auto;
+      bottom: auto;
+      color: rgba(255,255,255,.7);
+      text-shadow: none;
+      margin-top: -.5em;
+      font-weight: 700;
+      text-align: left;
+    }
+  }
+  .label {
+    position: absolute;
+    width: 100%;
+    font-size: 0.95rem;
+    top: 100%;
+    right: auto;
+    left: 0;
+    bottom: auto;
+    @include theme () {
+      color: t('text');
+    }
+    font-weight: 500;
+    text-shadow: none;
+    margin-top: .2em;
+    text-align: center;
+  }
+}

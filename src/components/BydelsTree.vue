@@ -1,21 +1,20 @@
 <template>
 <section class="container">
   <div class="row">
-    <div class="col-xs-12"><h1>Stavanger</h1></div>
+    <div class="col-xs-12"><h6>Stavanger</h6></div>
   </div>
-  <div class="row">
-    <dl class="col-xs-12 col-sm-6" v-for="(bydel, index) in tree" :key="index">
+  <div class="row" style="max-height: 500px; overflow-y: scroll;">
+    <ul class="menu" v-for="(bydel, index) in tree" :key="index">
       <template >
-        <dt><router-link :to="'/' + bydel.name">{{bydel.name}}</router-link></dt>
-        <dd>
-          <ul class="list-group">
-            <li class="list-group-item" v-for="(zone, idx) in bydel.zones" :key="idx">
+        <li class="menu-item"><router-link :to="'/' + bydel.name">{{bydel.name}}</router-link>
+        <ul class="menu">
+            <li class="menu-item" v-for="(zone, idx) in bydel.zones" :key="idx">
               <router-link :to="`/${bydel.name}/${zone.id} ${zone.name}`">{{zone.name}}</router-link>
             </li>
           </ul>
-        </dd>
+        </li>
       </template>
-    </dl>
+    </ul>
   </div>
 </section>
 </template>
@@ -24,6 +23,12 @@ export default {
   data () {
     return {
       tree: this.$store.state.bydeler
+    }
+  },
+  watch: {
+    '$store.state.bydeler': {
+      immediate: true,
+      handler: 'buildTree'
     }
   },
   methods: {
@@ -36,11 +41,9 @@ export default {
         bydel.zones = zones
         tree.push(bydel)
       })
+      this.$store.commit('SET_BYDELS_TREE', tree)
       return tree
     }
-  },
-  mounted () {
-    this.tree = this.buildTree()
   }
 }
 </script>

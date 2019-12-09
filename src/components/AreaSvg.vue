@@ -11,7 +11,7 @@ export default {
       type: String,
       default: '3 Sentrum'
     },
-    isBydel: {
+    bydel: {
       type: Boolean,
       default: false
     }
@@ -27,11 +27,13 @@ export default {
   },
   methods: {
     getPolygon (name) {
-      if (this.isBydel) {
+      if (this.bydel) {
+        console.log('Drawing bydel: ' + name)
         return this.$store.state.bydelskart.features.filter((zone) => {
-          return zone.properties.Streng === name
+          return zone.properties.Streng.toLowerCase() === name.toLowerCase()
         })[0]
       } else {
+        console.log('Drawing Area')
         return this.$store.state.zones.features.filter((zone) => {
           return zone.properties.Streng === name
         })[0]

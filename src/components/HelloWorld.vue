@@ -1,11 +1,6 @@
 <template>
   <div class="container">
-    <div class="row">
-      <div class="col">
-        Area: <strong>{{clickedArea}}</strong>
-      </div>
-    </div>
-    <div class="map-container">
+    <div class="map-container" style="margin-top: 3rem;">
     <mapbox
       :access-token="token"
       :map-options="mapOptions"

@@ -1,0 +1,71 @@
+
+.badge {
+  display: inline-block;
+  line-height: 1;
+  vertical-align: baseline;
+  margin: 0 .14285714em;
+  background-color: #e8e8e8;
+  background-image: none;
+  padding: .5833em .833em;
+  color: rgba(0,0,0,.6);
+  text-transform: none;
+  font-weight: 700;
+  border: 0 solid transparent;
+  border-radius: .28571429rem;
+  font-size: .7rem;
+  border: 1px solid transparent;
+
+  background-color: #dadde2;
+  //border-color: #dadde2;
+  //color: #1b2029;
+  &.success {
+    background-color: color('green');
+    border-color: color('green');
+    color: #fff;
+    &.outline {
+      color: color('green');
+    }
+  }
+  &.info {
+    background-color: color('blue');
+    border-color: color('blue');
+    color: #fff;
+    &.outline {
+      color: color('blue');
+    }
+  }
+  &.warning {
+    background-color: color('yellow');
+    border-color: color('yellow');
+    color: #fff;
+    &.outline {
+      color: color('yellow');
+    }
+  }
+  &.error {
+    background-color: color('red');
+    border-color: color('red');
+    color: #fff;
+    &.outline {
+      color: color('red');
+    }
+  }
+  &.rounded {
+    border-radius: 1000px;
+  }
+  &.outline {
+    background-color: transparent;
+  }
+  @each $name, $color in $colors {
+    &.#{$name} {
+      background-color: $color;
+      color: #fff;
+      &.outline {
+        background-color: transparent;
+        color: $color;
+        border-color: $color;
+      }
+    }
+
+  }
+}

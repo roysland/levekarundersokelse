@@ -1,6 +1,6 @@
 <template>
   <div>
-    <select class="form-control form-control-sm" v-model="dataset" @change="loadDataSet">
+    <select class="form-control form-control-sm" v-model="set" @change="loadDataSet">
       <option v-for="(source, index) in $store.state.sources" :key="index" :value="index">
         {{source.name}}
       </option>
@@ -8,11 +8,11 @@
   </div>
 </template>
 <script>
-import Axios from 'axios'
 export default {
   data () {
     return {
-      dataset: {
+      set: 0,
+      currentDataSet: {
         minMax: [],
         data: null,
         years: [],
@@ -23,14 +23,16 @@ export default {
   },
   methods: {
     loadDataSet () {
-      const set = this.$store.state.sources[this.dataset]
-      Axios.get(set.url)
+      const set = this.$store.state.sources[this.set]
+      /* Axios.get(set.url)
         .then((response) => {
           this.currentDataSet.data = response.data
           this.currentDataSet.years = this.mapYearsFromData(this.currentDataSet.data)
           this.currentDataSet.minMax = this.getHighLowValues(this.currentDataSet.data)
-          this.$emit('dataLoaded', this.dataset)
-        })
+          this.$emit('dataLoaded', this.currentDataSet)
+        }) */
+      this.$emit('dataLoaded', set)
+      return set
     },
     mapYearsFromData (data) {
       const years = data.map((d) => {

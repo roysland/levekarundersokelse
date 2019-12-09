@@ -1,0 +1,49 @@
+
+
+$themes: (
+  'default': (
+    'body-bg': color('grey-light'),
+    'bg': color('white'),
+    'element': tint('grey-light', 75),
+    'text': color('grey-dark'),
+    'border': #ECF0F4,
+    'muted': tint('grey-light', 10%),
+    'primary': color('pageup-blue'),
+    'default': #F6F9FC
+  ),
+  'dark': (
+    'body-bg': color('grey-dark'),
+    'bg': color('grey-dark'),
+    'element': tint('grey-dark', 5),
+    'text': #ECF0F4,
+    'border': rgba(255, 255, 255, 0.15),
+    'muted': tint('grey-dark', 10%),
+    'primary': color('pageup-blue'),
+    'default': #F6F9FC
+  )
+);
+
+
+@mixin theme() {
+  @each $theme, $map in $themes {
+    .theme--#{$theme} & {
+      $theme-map: () !global;
+      @each $key, $submap in $map {
+        $value: map-get(map-get($themes, $theme), '#{$key}');
+        $theme-map: map-merge($theme-map, ($key: $value)) !global;
+      }
+      @content;
+      $theme-map: null !global;
+    }
+  }
+}
+
+@function t($key) {
+  @return map-get($theme-map, $key);
+}
+@each $name, $list in $themes {
+  .theme--#{$name} {
+    background-color: map-get($list, 'bg');
+    color: map-get($list, 'text');
+  }
+}

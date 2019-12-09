@@ -1,0 +1,108 @@
+@mixin button-variant($name) {
+  $color: map-get($colors, $name);
+  color: #ffffff;
+  background-color: $color;
+  border-color: $color;
+  &:hover {
+    background-color: mix(black, $color, 10%);
+  }
+  &:active {
+    background-color: mix(black, $color, 20%);
+  }
+  &.btn-outline {
+    background-color: transparent;
+    color: $color;
+    &:hover {
+      color: #ffffff;
+      background-color: $color;
+    }
+  }
+  &.btn-link {
+    background-color: transparent;
+    border-color: transparent;
+    color: $color;
+  }
+}
+.btn {
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 18px;
+  padding-right: 18px;
+  line-height: 16px;
+  font-weight: 400;
+  text-decoration: none;
+  font-size: 95%;
+  text-rendering: optimizeLegibility;
+  border-radius: 4px;
+  height: 36px;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  text-align: center;
+  font-family: inherit;
+  cursor: pointer;
+  background-color: color('grey-light');
+  border-color: color('grey-light');
+  color: color('grey-dark');
+  @include theme() {
+    background-color: t('default');
+    border-color: t('border');
+  }
+  &.btn-primary {
+    @include button-variant('pageup-blue');
+  }
+  &.btn-sm {
+    font-size: 14px;
+    line-height: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    height: 28px;
+    border-radius: 3px;
+  }
+  &.btn-xs {
+    font-size: 12px;
+    line-height: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    height: 22px;
+    border-radius: 3px;
+  }
+  &.btn-lg {
+    font-size: 16px;
+    line-height: 20px;
+    padding-left: 28px;
+    padding-right: 28px;
+    height: 44px;
+    border-radius: 5px;
+  }
+  &.btn-xl {
+    font-size: 18px;
+    line-height: 22px;
+    padding-left: 32px;
+    padding-right: 32px;
+    height: 52px;
+    border-radius: 6px;
+  }
+}
+
+.close-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  height: 16px;
+  display: block;
+  width: 16px;
+  color: #fff;
+  &:before {
+    content: "";
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3E%3Cpolygon points='8.1187 9.35613241 4.23743241 13.2374 3 11.9999676 6.88126759 8.1187 3 4.23743241 4.23743241 3 8.1187 6.88126759 11.9999676 3 13.2374 4.23743241 9.35613241 8.1187 13.2374 11.9999676 11.9999676 13.2374 8.1187 9.35613241'%3E%3C/polygon%3E%3C/svg%3E");
+    height: 16px;
+  display: block;
+  width: 16px;
+  }
+  &.black:before {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3E%3Cpolygon points='8.1187 9.35613241 4.23743241 13.2374 3 11.9999676 6.88126759 8.1187 3 4.23743241 4.23743241 3 8.1187 6.88126759 11.9999676 3 13.2374 4.23743241 9.35613241 8.1187 13.2374 11.9999676 11.9999676 13.2374 8.1187 9.35613241'%3E%3C/polygon%3E%3C/svg%3E");
+  }
+}

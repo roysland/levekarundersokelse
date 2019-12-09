@@ -1,0 +1,49 @@
+.action-row {
+  display: block;
+  position: relative;
+  padding: 0;
+  background: #fff;
+  border: 1px solid #dddbda;
+  border-radius: .25rem;
+  background-clip: padding-box;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);
+  .action-row-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .media {
+      margin-right: 1rem;
+      background-color: color('pageup-blue');
+      margin: 1rem;
+      width: 26px;
+      height: 26px;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 3px;
+      svg {
+        height: auto;
+        max-width: 100%;
+        vertical-align: middle;
+        fill: #fff;
+      }
+    }
+    .header {
+      flex-grow: 2;
+      h3 {
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1;
+        margin: 0;
+      }
+      p {
+        margin: 0;
+      }
+    }
+    .actions {
+      margin-right: 1rem;
+    }
+  }
+}
+

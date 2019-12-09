@@ -1,0 +1,52 @@
+.data-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  padding: 20px;
+  border-top: 4px #4b3499 solid;
+  border-radius: 2px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  transition: all 250ms ease-out;
+  text-decoration: none;
+  color: #101319;
+  @include theme() {
+    background-color: t('element');
+    color: t('text'),
+  }
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px 0 rgba(45, 45, 45, 0.17);
+  }
+  .data-card-header {
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+  }
+  .data-card-wrapper {
+    margin-top: 1rem;
+    overflow: hidden;
+    box-sizing: content-box;
+    height: 115px;
+    margin-bottom: 40px;
+    .data-card-description {
+      margin-top: 0;
+      justify-content: flex-start;
+      text-align: left;
+      transform: translateZ(0);
+    }
+  }
+  .data-card-footer {
+    width: 100%;
+    margin-top: 2rem;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    svg {
+      float: right;
+      width: 28px;
+      height: 28px;
+      color: #4B3499;
+    }
+  }
+}

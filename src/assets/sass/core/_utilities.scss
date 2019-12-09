@@ -1,0 +1,37 @@
+// Spacings
+$spacings: (
+  0: 0,
+  1: 0.25rem,
+  2: 0.5rem,
+  3: 0.75rem,
+  4: 1rem,
+  5: 2rem
+);
+
+@each $name, $space in $spacings {
+  .ma-#{$name} { margin: $space; }
+  .ml-#{$name} { margin-left: $space; }
+  .mr-#{$name} { margin-right: $space; }
+  .mt-#{$name} { margin-top: $space; }
+  .mb-#{$name} { margin-bottom: $space; }
+  .pa-#{$name} { padding: $space; }
+  .pl-#{$name} { padding-left: $space; }
+  .pr-#{$name} { padding-right: $space; }
+  .pt-#{$name} { padding-top: $space; }
+  .pb-#{$name} { padding-bottom: $space; }
+}
+
+.text-truncate {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.d-none {
+  display: none;
+}
+@media screen and (min-width: map-get($grid-breakpoints, 'sm')) {
+  .d-sm-block {
+    display: block;
+  }
+}

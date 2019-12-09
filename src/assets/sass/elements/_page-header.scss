@@ -1,0 +1,32 @@
+.page-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  padding: 2rem 0;
+  .page-header-module {
+    color: #a3a5a9;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+  }
+  .page-header-title {
+    color: #1b2029;
+    font-size: 3.25rem;
+    font-weight: 300;
+    font-family: 'Akkurat Pro';
+    @include theme() {
+      color: t('text')
+    }
+  }
+  .page-header-desc {
+    margin: 0 auto;
+    max-width: 66%;
+    font-size: 1.25rem;
+    line-height: 1.25;
+    margin-bottom: .5rem;
+    text-align: center;
+  }
+}

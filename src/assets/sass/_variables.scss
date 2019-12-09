@@ -1,0 +1,45 @@
+@function tint($color, $percentage) {
+  @return mix(white, map-get($colors, $color), $percentage);
+}
+@function shade($color, $percentage) {
+  @return mix(black, map-get($colors, $color), $percentage);
+}
+@function color($name) {
+  @return map-get($colors, $name);
+}
+@function color-alpha($name, $amount) {
+  @return transparentize(map-get($colors, $name), $amount);
+}
+$cool-white: #f4f8fb;
+$colors: (
+  'white': #fff,
+  'black': #000,
+  'grey-dark': #1b2029,
+  'grey-light': #dadde2,
+  'blue': #157ff2,
+  'red': #eb293a,
+  'orange': #f56753,
+  'yellow': #f9a328,
+  'green': #14c684,
+  'purple': #7d58ff,
+  'pink': #ff007d,
+  'gold': #b08329,
+  'cyan': #20d5ff,
+  'orchid': #c043d7,
+  'pageup-blue': #00526E,
+  
+);
+$social-colors: (
+  'facebook': #3b5998,
+  'twitter': #55acee,
+  'google-plus': #db4437,
+  'linked-in': #0976b4
+);
+$tints: (10, 20, 40, 60, 85);
+$shades: (10, 20, 40, 60, 80);
+:root {
+  @each $name, $color in $colors {
+    --color-#{$name}: #{$color};
+  }
+  --color-primary: color('purple');
+}
