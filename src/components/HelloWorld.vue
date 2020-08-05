@@ -1,5 +1,10 @@
 <template>
   <div class="container">
+    <nav aria-label="breadcrumb">
+      <div class="breadcrumbs">
+        <div class="breadcrumbs-item" v-for="bydel in $store.state.bydeler" :key="bydel.name"><router-link :to="`/${bydel.name}`">{{bydel.name}}</router-link></div>
+      </div>
+    </nav>
     <div class="map-container" style="margin-top: 3rem;">
     <mapbox
       :access-token="token"
