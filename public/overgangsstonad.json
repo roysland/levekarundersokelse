@@ -1,0 +1,554 @@
+[
+ {
+   "År": 2012,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,25"
+ },
+ {
+   "År": 2012,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,53"
+ },
+ {
+   "År": 2012,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,9"
+ },
+ {
+   "År": 2012,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,54"
+ },
+ {
+   "År": 2012,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,27"
+ },
+ {
+   "År": 2012,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2012,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,47"
+ },
+ {
+   "År": 2012,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,22"
+ },
+ {
+   "År": 2012,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,47"
+ },
+ {
+   "År": 2012,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,97"
+ },
+ {
+   "År": 2012,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,45"
+ },
+ {
+   "År": 2012,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,95"
+ },
+ {
+   "År": 2012,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,09"
+ },
+ {
+   "År": 2012,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,99"
+ },
+ {
+   "År": 2012,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,8"
+ },
+ {
+   "År": 2012,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,79"
+ },
+ {
+   "År": 2012,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,95"
+ },
+ {
+   "År": 2012,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,07"
+ },
+ {
+   "År": 2012,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,19"
+ },
+ {
+   "År": 2012,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,39"
+ },
+ {
+   "År": 2012,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,65"
+ },
+ {
+   "År": 2012,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,31"
+ },
+ {
+   "År": 2012,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,37"
+ },
+ {
+   "År": 2012,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,42"
+ },
+ {
+   "År": 2012,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,78"
+ },
+ {
+   "År": 2012,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2"
+ },
+ {
+   "År": 2012,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,01"
+ },
+ {
+   "År": 2012,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,55"
+ },
+ {
+   "År": 2012,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,4"
+ },
+ {
+   "År": 2012,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,37"
+ },
+ {
+   "År": 2012,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,47"
+ },
+ {
+   "År": 2012,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,3"
+ },
+ {
+   "År": 2012,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,13"
+ },
+ {
+   "År": 2012,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,85"
+ },
+ {
+   "År": 2012,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,48"
+ },
+ {
+   "År": 2012,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,6"
+ },
+ {
+   "År": 2012,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,49"
+ },
+ {
+   "År": 2012,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,32"
+ },
+ {
+   "År": 2012,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,83"
+ },
+ {
+   "År": 2012,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,05"
+ },
+ {
+   "År": 2012,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,68"
+ },
+ {
+   "År": 2012,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Overgangsstønad, kvinner 16-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ }
+]

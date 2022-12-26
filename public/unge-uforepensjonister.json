@@ -1,0 +1,2258 @@
+[
+ {
+   "År": 2010,
+   "Ident": 39,
+   "Navn": "Auglend",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,937576499"
+ },
+ {
+   "År": 2010,
+   "Ident": 2,
+   "Navn": "Badedammen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,626646011"
+ },
+ {
+   "År": 2010,
+   "Ident": 22,
+   "Navn": "Bakkeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,968503937"
+ },
+ {
+   "År": 2010,
+   "Ident": 16,
+   "Navn": "Bekkefaret",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,449275362"
+ },
+ {
+   "År": 2010,
+   "Ident": 4,
+   "Navn": "Bergeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,383939774"
+ },
+ {
+   "År": 2010,
+   "Ident": 20,
+   "Navn": "Bjergsted",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,211538462"
+ },
+ {
+   "År": 2010,
+   "Ident": 69,
+   "Navn": "Boganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,296596434"
+ },
+ {
+   "År": 2010,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,298850575"
+ },
+ {
+   "År": 2010,
+   "Ident": 62,
+   "Navn": "Byhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,667444574"
+ },
+ {
+   "År": 2010,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,244039271"
+ },
+ {
+   "År": 2010,
+   "Ident": 7,
+   "Navn": "Emmaus",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,371900826"
+ },
+ {
+   "År": 2010,
+   "Ident": 67,
+   "Navn": "Forusstranda",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,677852349"
+ },
+ {
+   "År": 2010,
+   "Ident": 36,
+   "Navn": "Gausel",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,337078652"
+ },
+ {
+   "År": 2010,
+   "Ident": 61,
+   "Navn": "Gjeraberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,38961039"
+ },
+ {
+   "År": 2010,
+   "Ident": 35,
+   "Navn": "Godeset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,02190396"
+ },
+ {
+   "År": 2010,
+   "Ident": 21,
+   "Navn": "Gramstadhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,92879257"
+ },
+ {
+   "År": 2010,
+   "Ident": 37,
+   "Navn": "Hinna",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,68852459"
+ },
+ {
+   "År": 2010,
+   "Ident": 33,
+   "Navn": "Hinnalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,738916256"
+ },
+ {
+   "År": 2010,
+   "Ident": 31,
+   "Navn": "Hundvågkrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,708428246"
+ },
+ {
+   "År": 2010,
+   "Ident": 68,
+   "Navn": "Husaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,917431193"
+ },
+ {
+   "År": 2010,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,037165082"
+ },
+ {
+   "År": 2010,
+   "Ident": 48,
+   "Navn": "Jernaldergarden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,457446809"
+ },
+ {
+   "År": 2010,
+   "Ident": 32,
+   "Navn": "Kalhag",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,88034188"
+ },
+ {
+   "År": 2010,
+   "Ident": 9,
+   "Navn": "Kannik",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,566951567"
+ },
+ {
+   "År": 2010,
+   "Ident": 11,
+   "Navn": "Kiellandmyrå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,088646967"
+ },
+ {
+   "År": 2010,
+   "Ident": 40,
+   "Navn": "Kristianslyst",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,517162471"
+ },
+ {
+   "År": 2010,
+   "Ident": 27,
+   "Navn": "Kråkeneset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,061895551"
+ },
+ {
+   "År": 2010,
+   "Ident": 19,
+   "Navn": "Kvalaberg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,001579779"
+ },
+ {
+   "År": 2010,
+   "Ident": 29,
+   "Navn": "Kvitepynten",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,551834131"
+ },
+ {
+   "År": 2010,
+   "Ident": 12,
+   "Navn": "Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,948766603"
+ },
+ {
+   "År": 2010,
+   "Ident": 10,
+   "Navn": "Ledaal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,781170483"
+ },
+ {
+   "År": 2010,
+   "Ident": 6,
+   "Navn": "Lervig",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,142245073"
+ },
+ {
+   "År": 2010,
+   "Ident": 53,
+   "Navn": "Madlaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,390057361"
+ },
+ {
+   "År": 2010,
+   "Ident": 49,
+   "Navn": "Madlalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,338432122"
+ },
+ {
+   "År": 2010,
+   "Ident": 47,
+   "Navn": "Madlamark",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,066666667"
+ },
+ {
+   "År": 2010,
+   "Ident": 55,
+   "Navn": "Madlatuå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,823421775"
+ },
+ {
+   "År": 2010,
+   "Ident": 60,
+   "Navn": "Malthaug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,672240803"
+ },
+ {
+   "År": 2010,
+   "Ident": 42,
+   "Navn": "Mariero",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,768729642"
+ },
+ {
+   "År": 2010,
+   "Ident": 57,
+   "Navn": "Mjug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,510460251"
+ },
+ {
+   "År": 2010,
+   "Ident": 52,
+   "Navn": "Molkeholen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,725997843"
+ },
+ {
+   "År": 2010,
+   "Ident": 5,
+   "Navn": "Nylund",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,407035176"
+ },
+ {
+   "År": 2010,
+   "Ident": 30,
+   "Navn": "Prestastø",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,458080194"
+ },
+ {
+   "År": 2010,
+   "Ident": 54,
+   "Navn": "Sandal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,772466539"
+ },
+ {
+   "År": 2010,
+   "Ident": 17,
+   "Navn": "Saxemarka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,271441202"
+ },
+ {
+   "År": 2010,
+   "Ident": 15,
+   "Navn": "Sentralsjukehuset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,862464183"
+ },
+ {
+   "År": 2010,
+   "Ident": 3,
+   "Navn": "Sentrum",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,147446931"
+ },
+ {
+   "År": 2010,
+   "Ident": 28,
+   "Navn": "Skeie",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,536862004"
+ },
+ {
+   "År": 2010,
+   "Ident": 65,
+   "Navn": "Smiene",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,697127937"
+ },
+ {
+   "År": 2010,
+   "Ident": 56,
+   "Navn": "Smiodden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,605015674"
+ },
+ {
+   "År": 2010,
+   "Ident": 45,
+   "Navn": "Solborg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,243243243"
+ },
+ {
+   "År": 2010,
+   "Ident": 50,
+   "Navn": "Stokka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,481927711"
+ },
+ {
+   "År": 2010,
+   "Ident": 24,
+   "Navn": "Stokkadalen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,288984263"
+ },
+ {
+   "År": 2010,
+   "Ident": 34,
+   "Navn": "Storaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,654188948"
+ },
+ {
+   "År": 2010,
+   "Ident": 59,
+   "Navn": "Sundekrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,836158192"
+ },
+ {
+   "År": 2010,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,125"
+ },
+ {
+   "År": 2010,
+   "Ident": 51,
+   "Navn": "Tastarustå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,848049281"
+ },
+ {
+   "År": 2010,
+   "Ident": 44,
+   "Navn": "Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,891304348"
+ },
+ {
+   "År": 2010,
+   "Ident": 18,
+   "Navn": "Ullandhaugskråningen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,800847458"
+ },
+ {
+   "År": 2010,
+   "Ident": 99,
+   "Navn": "Uplassert",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,228976697"
+ },
+ {
+   "År": 2010,
+   "Ident": 8,
+   "Navn": "Varden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,59901599"
+ },
+ {
+   "År": 2010,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,06185567"
+ },
+ {
+   "År": 2010,
+   "Ident": 41,
+   "Navn": "Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,280683031"
+ },
+ {
+   "År": 2010,
+   "Ident": 13,
+   "Navn": "Våland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,211072664"
+ },
+ {
+   "År": 2010,
+   "Ident": 25,
+   "Navn": "Ytre Eiganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,869158879"
+ },
+ {
+   "År": 2010,
+   "Ident": 14,
+   "Navn": "Ytre Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,490421456"
+ },
+ {
+   "År": 2010,
+   "Ident": 58,
+   "Navn": "Ørnaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,602564103"
+ },
+ {
+   "År": 2010,
+   "Ident": 46,
+   "Navn": "Øvre Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,623188406"
+ },
+ {
+   "År": 2010,
+   "Ident": 38,
+   "Navn": "Øvre Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,388888889"
+ },
+ {
+   "År": 2010,
+   "Ident": 26,
+   "Navn": "Øyane",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,522248244"
+ },
+ {
+   "År": 2010,
+   "Ident": 43,
+   "Navn": "Åsen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,459016393"
+ },
+ {
+   "År": 2012,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,32"
+ },
+ {
+   "År": 2012,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2012,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,89"
+ },
+ {
+   "År": 2012,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,17"
+ },
+ {
+   "År": 2012,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,33"
+ },
+ {
+   "År": 2012,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,26"
+ },
+ {
+   "År": 2012,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,25"
+ },
+ {
+   "År": 2012,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,94"
+ },
+ {
+   "År": 2012,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,8"
+ },
+ {
+   "År": 2012,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1"
+ },
+ {
+   "År": 2012,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,07"
+ },
+ {
+   "År": 2012,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,23"
+ },
+ {
+   "År": 2012,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,77"
+ },
+ {
+   "År": 2012,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,61"
+ },
+ {
+   "År": 2012,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,09"
+ },
+ {
+   "År": 2012,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,78"
+ },
+ {
+   "År": 2012,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,58"
+ },
+ {
+   "År": 2012,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,38"
+ },
+ {
+   "År": 2012,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,1"
+ },
+ {
+   "År": 2012,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,71"
+ },
+ {
+   "År": 2012,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,04"
+ },
+ {
+   "År": 2012,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,42"
+ },
+ {
+   "År": 2012,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,58"
+ },
+ {
+   "År": 2012,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,13"
+ },
+ {
+   "År": 2012,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,72"
+ },
+ {
+   "År": 2012,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,81"
+ },
+ {
+   "År": 2012,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,13"
+ },
+ {
+   "År": 2012,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,89"
+ },
+ {
+   "År": 2012,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,35"
+ },
+ {
+   "År": 2012,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,22"
+ },
+ {
+   "År": 2012,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,89"
+ },
+ {
+   "År": 2012,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2012,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,9"
+ },
+ {
+   "År": 2012,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,42"
+ },
+ {
+   "År": 2012,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,38"
+ },
+ {
+   "År": 2012,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,39"
+ },
+ {
+   "År": 2012,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,04"
+ },
+ {
+   "År": 2012,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,66"
+ },
+ {
+   "År": 2012,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2012,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,88"
+ },
+ {
+   "År": 2012,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,93"
+ },
+ {
+   "År": 2012,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,61"
+ },
+ {
+   "År": 2012,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,68"
+ },
+ {
+   "År": 2012,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,48"
+ },
+ {
+   "År": 2012,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,26"
+ },
+ {
+   "År": 2012,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,14"
+ },
+ {
+   "År": 2012,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,72"
+ },
+ {
+   "År": 2012,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,45"
+ },
+ {
+   "År": 2012,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2012,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,06"
+ },
+ {
+   "År": 2012,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,28"
+ },
+ {
+   "År": 2012,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,67"
+ },
+ {
+   "År": 2012,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,36"
+ },
+ {
+   "År": 2012,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,26"
+ },
+ {
+   "År": 2012,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,5"
+ },
+ {
+   "År": 2012,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,47"
+ },
+ {
+   "År": 2012,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,09"
+ },
+ {
+   "År": 2012,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,18"
+ },
+ {
+   "År": 2012,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,25"
+ },
+ {
+   "År": 2012,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,99"
+ },
+ {
+   "År": 2012,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,69"
+ },
+ {
+   "År": 2012,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,12"
+ },
+ {
+   "År": 2012,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,49"
+ },
+ {
+   "År": 2012,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,35"
+ },
+ {
+   "År": 2012,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,31"
+ },
+ {
+   "År": 2012,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,16"
+ },
+ {
+   "År": 2012,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,79"
+ },
+ {
+   "År": 2012,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,37"
+ },
+ {
+   "År": 2014,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1"
+ },
+ {
+   "År": 2014,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4"
+ },
+ {
+   "År": 2014,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2014,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2"
+ },
+ {
+   "År": 2014,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2"
+ },
+ {
+   "År": 2014,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2"
+ },
+ {
+   "År": 2016,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4"
+ },
+ {
+   "År": 2016,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3"
+ },
+ {
+   "År": 2016,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2016,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2016,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1"
+ },
+ {
+   "År": 2016,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2"
+ },
+ {
+   "År": 2016,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1"
+ },
+ {
+   "År": 2016,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3"
+ },
+ {
+   "År": 2016,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "2"
+ },
+ {
+   "År": 2016,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 71,
+   "Navn": "71 Jåttåvågen",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "0"
+ },
+ {
+   "År": 2016,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Unge uførepensjonister, 18-44 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,5"
+ }
+]

@@ -1,0 +1,1698 @@
+[
+ {
+   "År": 2012,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,42"
+ },
+ {
+   "År": 2012,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "36,22"
+ },
+ {
+   "År": 2012,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "38,32"
+ },
+ {
+   "År": 2012,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "30,53"
+ },
+ {
+   "År": 2012,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,05"
+ },
+ {
+   "År": 2012,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "23,51"
+ },
+ {
+   "År": 2012,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,6"
+ },
+ {
+   "År": 2012,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,63"
+ },
+ {
+   "År": 2012,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "31,48"
+ },
+ {
+   "År": 2012,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,99"
+ },
+ {
+   "År": 2012,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,56"
+ },
+ {
+   "År": 2012,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "26,67"
+ },
+ {
+   "År": 2012,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,18"
+ },
+ {
+   "År": 2012,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,96"
+ },
+ {
+   "År": 2012,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,62"
+ },
+ {
+   "År": 2012,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,42"
+ },
+ {
+   "År": 2012,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,79"
+ },
+ {
+   "År": 2012,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,92"
+ },
+ {
+   "År": 2012,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "22,32"
+ },
+ {
+   "År": 2012,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "27,73"
+ },
+ {
+   "År": 2012,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,15"
+ },
+ {
+   "År": 2012,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,23"
+ },
+ {
+   "År": 2012,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,51"
+ },
+ {
+   "År": 2012,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,61"
+ },
+ {
+   "År": 2012,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,83"
+ },
+ {
+   "År": 2012,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,07"
+ },
+ {
+   "År": 2012,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,39"
+ },
+ {
+   "År": 2012,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,41"
+ },
+ {
+   "År": 2012,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,1"
+ },
+ {
+   "År": 2012,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,3"
+ },
+ {
+   "År": 2012,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,62"
+ },
+ {
+   "År": 2012,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,85"
+ },
+ {
+   "År": 2012,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,4"
+ },
+ {
+   "År": 2012,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,83"
+ },
+ {
+   "År": 2012,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,74"
+ },
+ {
+   "År": 2012,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,53"
+ },
+ {
+   "År": 2012,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,35"
+ },
+ {
+   "År": 2012,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,51"
+ },
+ {
+   "År": 2012,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,26"
+ },
+ {
+   "År": 2012,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,36"
+ },
+ {
+   "År": 2012,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,62"
+ },
+ {
+   "År": 2012,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,55"
+ },
+ {
+   "År": 2012,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,37"
+ },
+ {
+   "År": 2012,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,47"
+ },
+ {
+   "År": 2012,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,09"
+ },
+ {
+   "År": 2012,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,09"
+ },
+ {
+   "År": 2012,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,05"
+ },
+ {
+   "År": 2012,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,6"
+ },
+ {
+   "År": 2012,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,88"
+ },
+ {
+   "År": 2012,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,92"
+ },
+ {
+   "År": 2012,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,94"
+ },
+ {
+   "År": 2012,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,81"
+ },
+ {
+   "År": 2012,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,92"
+ },
+ {
+   "År": 2012,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,17"
+ },
+ {
+   "År": 2012,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,56"
+ },
+ {
+   "År": 2012,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,89"
+ },
+ {
+   "År": 2012,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,24"
+ },
+ {
+   "År": 2012,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,52"
+ },
+ {
+   "År": 2012,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,01"
+ },
+ {
+   "År": 2012,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,02"
+ },
+ {
+   "År": 2012,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,16"
+ },
+ {
+   "År": 2012,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,02"
+ },
+ {
+   "År": 2012,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10"
+ },
+ {
+   "År": 2012,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,95"
+ },
+ {
+   "År": 2012,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,5"
+ },
+ {
+   "År": 2012,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,49"
+ },
+ {
+   "År": 2012,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,55"
+ },
+ {
+   "År": 2012,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,82"
+ },
+ {
+   "År": 2012,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,53"
+ },
+ {
+   "År": 2014,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "30,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "29"
+ },
+ {
+   "År": 2014,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "27,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "21,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "21,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "22,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14"
+ },
+ {
+   "År": 2014,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16"
+ },
+ {
+   "År": 2014,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11"
+ },
+ {
+   "År": 2014,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10"
+ },
+ {
+   "År": 2014,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9"
+ },
+ {
+   "År": 2014,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "22,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "33,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "36,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "27"
+ },
+ {
+   "År": 2016,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18"
+ },
+ {
+   "År": 2016,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "29,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "32"
+ },
+ {
+   "År": 2016,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11"
+ },
+ {
+   "År": 2016,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11"
+ },
+ {
+   "År": 2016,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14"
+ },
+ {
+   "År": 2016,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9"
+ },
+ {
+   "År": 2016,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9"
+ },
+ {
+   "År": 2016,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10"
+ },
+ {
+   "År": 2016,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10"
+ },
+ {
+   "År": 2016,
+   "Ident": 71,
+   "Navn": "71 Jåttåvågen",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Utflyttinger",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "21,7"
+ }
+]

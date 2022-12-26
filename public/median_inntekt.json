@@ -1,0 +1,1698 @@
+[
+ {
+   "År": 2012,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 358400
+ },
+ {
+   "År": 2012,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 333200
+ },
+ {
+   "År": 2012,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 312000
+ },
+ {
+   "År": 2012,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 326600
+ },
+ {
+   "År": 2012,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 368400
+ },
+ {
+   "År": 2012,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 337700
+ },
+ {
+   "År": 2012,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 304400
+ },
+ {
+   "År": 2012,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 386500
+ },
+ {
+   "År": 2012,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 355400
+ },
+ {
+   "År": 2012,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 445200
+ },
+ {
+   "År": 2012,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 372500
+ },
+ {
+   "År": 2012,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 348600
+ },
+ {
+   "År": 2012,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 411500
+ },
+ {
+   "År": 2012,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 359800
+ },
+ {
+   "År": 2012,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 367400
+ },
+ {
+   "År": 2012,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 334000
+ },
+ {
+   "År": 2012,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 316000
+ },
+ {
+   "År": 2012,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 355900
+ },
+ {
+   "År": 2012,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 303600
+ },
+ {
+   "År": 2012,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 367000
+ },
+ {
+   "År": 2012,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 375300
+ },
+ {
+   "År": 2012,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 353600
+ },
+ {
+   "År": 2012,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 383800
+ },
+ {
+   "År": 2012,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 382800
+ },
+ {
+   "År": 2012,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 411500
+ },
+ {
+   "År": 2012,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 393200
+ },
+ {
+   "År": 2012,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 376200
+ },
+ {
+   "År": 2012,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 317100
+ },
+ {
+   "År": 2012,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 336800
+ },
+ {
+   "År": 2012,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 392500
+ },
+ {
+   "År": 2012,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 360700
+ },
+ {
+   "År": 2012,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 358300
+ },
+ {
+   "År": 2012,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 422800
+ },
+ {
+   "År": 2012,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 354300
+ },
+ {
+   "År": 2012,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 406400
+ },
+ {
+   "År": 2012,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 436200
+ },
+ {
+   "År": 2012,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 345800
+ },
+ {
+   "År": 2012,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 399600
+ },
+ {
+   "År": 2012,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 385600
+ },
+ {
+   "År": 2012,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 334200
+ },
+ {
+   "År": 2012,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 418700
+ },
+ {
+   "År": 2012,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 374200
+ },
+ {
+   "År": 2012,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 341500
+ },
+ {
+   "År": 2012,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 332000
+ },
+ {
+   "År": 2012,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 352800
+ },
+ {
+   "År": 2012,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 354200
+ },
+ {
+   "År": 2012,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 457600
+ },
+ {
+   "År": 2012,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 298500
+ },
+ {
+   "År": 2012,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 447400
+ },
+ {
+   "År": 2012,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 472700
+ },
+ {
+   "År": 2012,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 375300
+ },
+ {
+   "År": 2012,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 417600
+ },
+ {
+   "År": 2012,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 338800
+ },
+ {
+   "År": 2012,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 440600
+ },
+ {
+   "År": 2012,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 412900
+ },
+ {
+   "År": 2012,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 313400
+ },
+ {
+   "År": 2012,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 331500
+ },
+ {
+   "År": 2012,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 348000
+ },
+ {
+   "År": 2012,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 367800
+ },
+ {
+   "År": 2012,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 411200
+ },
+ {
+   "År": 2012,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 393500
+ },
+ {
+   "År": 2012,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 341300
+ },
+ {
+   "År": 2012,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 368000
+ },
+ {
+   "År": 2012,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 349700
+ },
+ {
+   "År": 2012,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 371700
+ },
+ {
+   "År": 2012,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 378400
+ },
+ {
+   "År": 2012,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 416800
+ },
+ {
+   "År": 2012,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 379700
+ },
+ {
+   "År": 2012,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 371400
+ },
+ {
+   "År": 2014,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 389700
+ },
+ {
+   "År": 2014,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 355200
+ },
+ {
+   "År": 2014,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 319100
+ },
+ {
+   "År": 2014,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 341600
+ },
+ {
+   "År": 2014,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 395600
+ },
+ {
+   "År": 2014,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 365700
+ },
+ {
+   "År": 2014,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 350500
+ },
+ {
+   "År": 2014,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 415100
+ },
+ {
+   "År": 2014,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 372200
+ },
+ {
+   "År": 2014,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 474600
+ },
+ {
+   "År": 2014,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 400800
+ },
+ {
+   "År": 2014,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 369300
+ },
+ {
+   "År": 2014,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 433400
+ },
+ {
+   "År": 2014,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 401500
+ },
+ {
+   "År": 2014,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 392200
+ },
+ {
+   "År": 2014,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 358800
+ },
+ {
+   "År": 2014,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 342500
+ },
+ {
+   "År": 2014,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 388000
+ },
+ {
+   "År": 2014,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 309700
+ },
+ {
+   "År": 2014,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 395500
+ },
+ {
+   "År": 2014,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 392900
+ },
+ {
+   "År": 2014,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 376600
+ },
+ {
+   "År": 2014,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 409200
+ },
+ {
+   "År": 2014,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 433900
+ },
+ {
+   "År": 2014,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 429800
+ },
+ {
+   "År": 2014,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 431000
+ },
+ {
+   "År": 2014,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 426800
+ },
+ {
+   "År": 2014,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 346900
+ },
+ {
+   "År": 2014,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 365500
+ },
+ {
+   "År": 2014,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 430000
+ },
+ {
+   "År": 2014,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 376600
+ },
+ {
+   "År": 2014,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 403700
+ },
+ {
+   "År": 2014,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 461000
+ },
+ {
+   "År": 2014,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 386600
+ },
+ {
+   "År": 2014,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 427000
+ },
+ {
+   "År": 2014,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 492100
+ },
+ {
+   "År": 2014,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 374700
+ },
+ {
+   "År": 2014,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 423400
+ },
+ {
+   "År": 2014,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 420600
+ },
+ {
+   "År": 2014,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 364500
+ },
+ {
+   "År": 2014,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 454800
+ },
+ {
+   "År": 2014,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 396800
+ },
+ {
+   "År": 2014,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 368900
+ },
+ {
+   "År": 2014,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 357300
+ },
+ {
+   "År": 2014,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 376000
+ },
+ {
+   "År": 2014,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 378400
+ },
+ {
+   "År": 2014,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 495000
+ },
+ {
+   "År": 2014,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 321900
+ },
+ {
+   "År": 2014,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 482600
+ },
+ {
+   "År": 2014,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 520900
+ },
+ {
+   "År": 2014,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 398900
+ },
+ {
+   "År": 2014,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 448000
+ },
+ {
+   "År": 2014,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 368900
+ },
+ {
+   "År": 2014,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 477000
+ },
+ {
+   "År": 2014,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 453700
+ },
+ {
+   "År": 2014,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 329900
+ },
+ {
+   "År": 2014,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 349100
+ },
+ {
+   "År": 2014,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 377500
+ },
+ {
+   "År": 2014,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 400300
+ },
+ {
+   "År": 2014,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 448900
+ },
+ {
+   "År": 2014,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 423600
+ },
+ {
+   "År": 2014,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 369800
+ },
+ {
+   "År": 2014,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 400700
+ },
+ {
+   "År": 2014,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 381500
+ },
+ {
+   "År": 2014,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 408700
+ },
+ {
+   "År": 2014,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 415000
+ },
+ {
+   "År": 2014,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 446300
+ },
+ {
+   "År": 2014,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 405500
+ },
+ {
+   "År": 2014,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 411300
+ },
+ {
+   "År": 2014,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 391200
+ },
+ {
+   "År": 2014,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 379500
+ },
+ {
+   "År": 2016,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 379600
+ },
+ {
+   "År": 2016,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 332700
+ },
+ {
+   "År": 2016,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 310900
+ },
+ {
+   "År": 2016,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 336100
+ },
+ {
+   "År": 2016,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 397600
+ },
+ {
+   "År": 2016,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 373000
+ },
+ {
+   "År": 2016,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 364000
+ },
+ {
+   "År": 2016,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 409200
+ },
+ {
+   "År": 2016,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 355000
+ },
+ {
+   "År": 2016,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 457000
+ },
+ {
+   "År": 2016,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 398100
+ },
+ {
+   "År": 2016,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 354800
+ },
+ {
+   "År": 2016,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 453700
+ },
+ {
+   "År": 2016,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 379100
+ },
+ {
+   "År": 2016,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 393300
+ },
+ {
+   "År": 2016,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 355600
+ },
+ {
+   "År": 2016,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 344600
+ },
+ {
+   "År": 2016,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 395100
+ },
+ {
+   "År": 2016,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 307200
+ },
+ {
+   "År": 2016,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 356700
+ },
+ {
+   "År": 2016,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 391800
+ },
+ {
+   "År": 2016,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 372700
+ },
+ {
+   "År": 2016,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 410400
+ },
+ {
+   "År": 2016,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 413200
+ },
+ {
+   "År": 2016,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 442700
+ },
+ {
+   "År": 2016,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 415600
+ },
+ {
+   "År": 2016,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 408300
+ },
+ {
+   "År": 2016,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 327100
+ },
+ {
+   "År": 2016,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 361100
+ },
+ {
+   "År": 2016,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 423600
+ },
+ {
+   "År": 2016,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 383400
+ },
+ {
+   "År": 2016,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 397800
+ },
+ {
+   "År": 2016,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 432700
+ },
+ {
+   "År": 2016,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 378000
+ },
+ {
+   "År": 2016,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 430500
+ },
+ {
+   "År": 2016,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 470200
+ },
+ {
+   "År": 2016,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 369600
+ },
+ {
+   "År": 2016,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 430000
+ },
+ {
+   "År": 2016,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 417000
+ },
+ {
+   "År": 2016,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 361400
+ },
+ {
+   "År": 2016,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 466400
+ },
+ {
+   "År": 2016,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 393700
+ },
+ {
+   "År": 2016,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 371400
+ },
+ {
+   "År": 2016,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 354700
+ },
+ {
+   "År": 2016,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 377700
+ },
+ {
+   "År": 2016,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 384400
+ },
+ {
+   "År": 2016,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 479500
+ },
+ {
+   "År": 2016,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 321700
+ },
+ {
+   "År": 2016,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 464000
+ },
+ {
+   "År": 2016,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 518000
+ },
+ {
+   "År": 2016,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 392500
+ },
+ {
+   "År": 2016,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 455800
+ },
+ {
+   "År": 2016,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 371900
+ },
+ {
+   "År": 2016,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 473000
+ },
+ {
+   "År": 2016,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 450000
+ },
+ {
+   "År": 2016,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 327900
+ },
+ {
+   "År": 2016,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 348700
+ },
+ {
+   "År": 2016,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 380500
+ },
+ {
+   "År": 2016,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 398700
+ },
+ {
+   "År": 2016,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 423800
+ },
+ {
+   "År": 2016,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 419700
+ },
+ {
+   "År": 2016,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 372400
+ },
+ {
+   "År": 2016,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 404900
+ },
+ {
+   "År": 2016,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 369600
+ },
+ {
+   "År": 2016,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 398200
+ },
+ {
+   "År": 2016,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 419800
+ },
+ {
+   "År": 2016,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 438200
+ },
+ {
+   "År": 2016,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 398600
+ },
+ {
+   "År": 2016,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 406100
+ },
+ {
+   "År": 2016,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 389900
+ },
+ {
+   "År": 2016,
+   "Ident": 71,
+   "Navn": "71 Jåttåvågen",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 495000
+ },
+ {
+   "År": 2016,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Median inntekt etter skatt pr forbruksenhet",
+   "parameter": "NOK",
+   "Variabel": 334500
+ }
+]

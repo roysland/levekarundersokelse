@@ -1,0 +1,1146 @@
+[
+ {
+   "År": 2014,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,869268045"
+ },
+ {
+   "År": 2014,
+   "Ident": 2,
+   "Navn": "Badedammen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "13,47498794"
+ },
+ {
+   "År": 2014,
+   "Ident": 3,
+   "Navn": "Sentrum",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "11,43465957"
+ },
+ {
+   "År": 2014,
+   "Ident": 4,
+   "Navn": "Storhaug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,878239646"
+ },
+ {
+   "År": 2014,
+   "Ident": 5,
+   "Navn": "Nylund",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,0557436"
+ },
+ {
+   "År": 2014,
+   "Ident": 6,
+   "Navn": "Spilderhaug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "9,286908518"
+ },
+ {
+   "År": 2014,
+   "Ident": 7,
+   "Navn": "Rosenli",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,36956312"
+ },
+ {
+   "År": 2014,
+   "Ident": 8,
+   "Navn": "Varden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,703066165"
+ },
+ {
+   "År": 2014,
+   "Ident": 9,
+   "Navn": "Kannik",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,22035464"
+ },
+ {
+   "År": 2014,
+   "Ident": 10,
+   "Navn": "Ledaal",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,850104773"
+ },
+ {
+   "År": 2014,
+   "Ident": 11,
+   "Navn": "Kiellandmyrå",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,02955298"
+ },
+ {
+   "År": 2014,
+   "Ident": 12,
+   "Navn": "Lagård",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,65799356"
+ },
+ {
+   "År": 2014,
+   "Ident": 13,
+   "Navn": "Våland",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,368016781"
+ },
+ {
+   "År": 2014,
+   "Ident": 14,
+   "Navn": "Ytre Lagård",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,781375439"
+ },
+ {
+   "År": 2014,
+   "Ident": 15,
+   "Navn": "Sentralsjukehuset",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,104024163"
+ },
+ {
+   "År": 2014,
+   "Ident": 16,
+   "Navn": "Bekkefaret",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,802087972"
+ },
+ {
+   "År": 2014,
+   "Ident": 17,
+   "Navn": "Saxemarka",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "11,89633616"
+ },
+ {
+   "År": 2014,
+   "Ident": 18,
+   "Navn": "Ullandhaugskråningen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,463614562"
+ },
+ {
+   "År": 2014,
+   "Ident": 19,
+   "Navn": "Hillevåg",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,240636135"
+ },
+ {
+   "År": 2014,
+   "Ident": 20,
+   "Navn": "Bjergsted",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,077962369"
+ },
+ {
+   "År": 2014,
+   "Ident": 21,
+   "Navn": "Gramstadhaugen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "9,131258749"
+ },
+ {
+   "År": 2014,
+   "Ident": 22,
+   "Navn": "Bakkeland",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "9,660327642"
+ },
+ {
+   "År": 2014,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,5848991"
+ },
+ {
+   "År": 2014,
+   "Ident": 24,
+   "Navn": "Stokkadalen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,736663341"
+ },
+ {
+   "År": 2014,
+   "Ident": 25,
+   "Navn": "Ytre Eiganes",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,730986655"
+ },
+ {
+   "År": 2014,
+   "Ident": 26,
+   "Navn": "Øyane",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,592288789"
+ },
+ {
+   "År": 2014,
+   "Ident": 27,
+   "Navn": "Kråkeneset",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,158064317"
+ },
+ {
+   "År": 2014,
+   "Ident": 28,
+   "Navn": "Skeie",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,309408127"
+ },
+ {
+   "År": 2014,
+   "Ident": 29,
+   "Navn": "Kvitepynten",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "11,33253639"
+ },
+ {
+   "År": 2014,
+   "Ident": 30,
+   "Navn": "Prestastø",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,6435736"
+ },
+ {
+   "År": 2014,
+   "Ident": 31,
+   "Navn": "Hundvågkrossen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,922658918"
+ },
+ {
+   "År": 2014,
+   "Ident": 32,
+   "Navn": "Kalhag",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,086930614"
+ },
+ {
+   "År": 2014,
+   "Ident": 33,
+   "Navn": "Hinnalia",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,170294147"
+ },
+ {
+   "År": 2014,
+   "Ident": 34,
+   "Navn": "Storaberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,135932995"
+ },
+ {
+   "År": 2014,
+   "Ident": 35,
+   "Navn": "Godeset",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,654031921"
+ },
+ {
+   "År": 2014,
+   "Ident": 36,
+   "Navn": "Gausel",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,813460151"
+ },
+ {
+   "År": 2014,
+   "Ident": 37,
+   "Navn": "Hinna",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,68638592"
+ },
+ {
+   "År": 2014,
+   "Ident": 38,
+   "Navn": "Øvre Vaulen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,004522302"
+ },
+ {
+   "År": 2014,
+   "Ident": 39,
+   "Navn": "Auglend",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,17768243"
+ },
+ {
+   "År": 2014,
+   "Ident": 40,
+   "Navn": "Kristianslyst",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,642806493"
+ },
+ {
+   "År": 2014,
+   "Ident": 41,
+   "Navn": "Vaulen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,211193208"
+ },
+ {
+   "År": 2014,
+   "Ident": 42,
+   "Navn": "Mariero",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,244924319"
+ },
+ {
+   "År": 2014,
+   "Ident": 43,
+   "Navn": "Åsen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,62609874"
+ },
+ {
+   "År": 2014,
+   "Ident": 44,
+   "Navn": "Tjensvoll",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,06258441"
+ },
+ {
+   "År": 2014,
+   "Ident": 45,
+   "Navn": "Solborg",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,336489073"
+ },
+ {
+   "År": 2014,
+   "Ident": 46,
+   "Navn": "Øvre Tjensvoll",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "9,846064918"
+ },
+ {
+   "År": 2014,
+   "Ident": 47,
+   "Navn": "Madlamark",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,656929884"
+ },
+ {
+   "År": 2014,
+   "Ident": 48,
+   "Navn": "Jernaldergarden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,169562152"
+ },
+ {
+   "År": 2014,
+   "Ident": 49,
+   "Navn": "Madlalia",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,384690423"
+ },
+ {
+   "År": 2014,
+   "Ident": 50,
+   "Navn": "Stokka",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,601760508"
+ },
+ {
+   "År": 2014,
+   "Ident": 51,
+   "Navn": "Tastarustå",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,841694812"
+ },
+ {
+   "År": 2014,
+   "Ident": 52,
+   "Navn": "Molkeholen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,637622252"
+ },
+ {
+   "År": 2014,
+   "Ident": 53,
+   "Navn": "Madlaforen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,249615333"
+ },
+ {
+   "År": 2014,
+   "Ident": 54,
+   "Navn": "Sandal",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,068554794"
+ },
+ {
+   "År": 2014,
+   "Ident": 55,
+   "Navn": "Madlatuå",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,043108842"
+ },
+ {
+   "År": 2014,
+   "Ident": 56,
+   "Navn": "Smiodden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,989225131"
+ },
+ {
+   "År": 2014,
+   "Ident": 57,
+   "Navn": "Mjug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,623192482"
+ },
+ {
+   "År": 2014,
+   "Ident": 58,
+   "Navn": "Ørnaberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,469046276"
+ },
+ {
+   "År": 2014,
+   "Ident": 59,
+   "Navn": "Sundekrossen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,343158562"
+ },
+ {
+   "År": 2014,
+   "Ident": 60,
+   "Navn": "Malthaug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,762874662"
+ },
+ {
+   "År": 2014,
+   "Ident": 61,
+   "Navn": "Gjeraberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,374662797"
+ },
+ {
+   "År": 2014,
+   "Ident": 62,
+   "Navn": "Byhaugen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,43247044"
+ },
+ {
+   "År": 2014,
+   "Ident": 63,
+   "Navn": " 63 Vardenes",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,063873925"
+ },
+ {
+   "År": 2014,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "27,89387569"
+ },
+ {
+   "År": 2014,
+   "Ident": 65,
+   "Navn": "Smiene",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,035552455"
+ },
+ {
+   "År": 2014,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,687979839"
+ },
+ {
+   "År": 2014,
+   "Ident": 67,
+   "Navn": "Forusstraen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,946297491"
+ },
+ {
+   "År": 2014,
+   "Ident": 68,
+   "Navn": "Husaberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,020428207"
+ },
+ {
+   "År": 2014,
+   "Ident": 69,
+   "Navn": "Boganes",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,023440233"
+ },
+ {
+   "År": 2014,
+   "Ident": 70,
+   "Navn": "Søra Bråde",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,572725834"
+ },
+ {
+   "År": 2014,
+   "Ident": 99,
+   "Navn": "Uoppgitt",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,898808003"
+ },
+ {
+   "År": 2016,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,086709766"
+ },
+ {
+   "År": 2016,
+   "Ident": 2,
+   "Navn": "Badedammen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "14,66376855"
+ },
+ {
+   "År": 2016,
+   "Ident": 3,
+   "Navn": "Sentrum",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "11,15235703"
+ },
+ {
+   "År": 2016,
+   "Ident": 4,
+   "Navn": "Storhaug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,552850952"
+ },
+ {
+   "År": 2016,
+   "Ident": 5,
+   "Navn": "Nylund",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,904806656"
+ },
+ {
+   "År": 2016,
+   "Ident": 6,
+   "Navn": "Spilderhaug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,187036408"
+ },
+ {
+   "År": 2016,
+   "Ident": 7,
+   "Navn": "Rosenli",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "11,09926786"
+ },
+ {
+   "År": 2016,
+   "Ident": 8,
+   "Navn": "Varden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,885719799"
+ },
+ {
+   "År": 2016,
+   "Ident": 9,
+   "Navn": "Kannik",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,061695513"
+ },
+ {
+   "År": 2016,
+   "Ident": 10,
+   "Navn": "Ledaal",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,797896804"
+ },
+ {
+   "År": 2016,
+   "Ident": 11,
+   "Navn": "Kiellandmyrå",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,911938091"
+ },
+ {
+   "År": 2016,
+   "Ident": 12,
+   "Navn": "Lagård",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,71469588"
+ },
+ {
+   "År": 2016,
+   "Ident": 13,
+   "Navn": "Våland",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,809219279"
+ },
+ {
+   "År": 2016,
+   "Ident": 14,
+   "Navn": "Ytre Lagård",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,743051498"
+ },
+ {
+   "År": 2016,
+   "Ident": 15,
+   "Navn": "Sentralsjukehuset",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,786029781"
+ },
+ {
+   "År": 2016,
+   "Ident": 16,
+   "Navn": "Bekkefaret",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,906980034"
+ },
+ {
+   "År": 2016,
+   "Ident": 17,
+   "Navn": "Saxemarka",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "11,29299999"
+ },
+ {
+   "År": 2016,
+   "Ident": 18,
+   "Navn": "Ullandhaugskråningen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,34975862"
+ },
+ {
+   "År": 2016,
+   "Ident": 19,
+   "Navn": "Hillevåg",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,188761642"
+ },
+ {
+   "År": 2016,
+   "Ident": 20,
+   "Navn": "Bjergsted",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,887121672"
+ },
+ {
+   "År": 2016,
+   "Ident": 21,
+   "Navn": "Gramstadhaugen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,941321851"
+ },
+ {
+   "År": 2016,
+   "Ident": 22,
+   "Navn": "Bakkeland",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,945378921"
+ },
+ {
+   "År": 2016,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,692371295"
+ },
+ {
+   "År": 2016,
+   "Ident": 24,
+   "Navn": "Stokkadalen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,259178876"
+ },
+ {
+   "År": 2016,
+   "Ident": 25,
+   "Navn": "Ytre Eiganes",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,527435787"
+ },
+ {
+   "År": 2016,
+   "Ident": 26,
+   "Navn": "Øyane",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,141657742"
+ },
+ {
+   "År": 2016,
+   "Ident": 27,
+   "Navn": "Kråkeneset",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,962393812"
+ },
+ {
+   "År": 2016,
+   "Ident": 28,
+   "Navn": "Skeie",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,25705797"
+ },
+ {
+   "År": 2016,
+   "Ident": 29,
+   "Navn": "Kvitepynten",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "9,473428159"
+ },
+ {
+   "År": 2016,
+   "Ident": 30,
+   "Navn": "Prestastø",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,310962139"
+ },
+ {
+   "År": 2016,
+   "Ident": 31,
+   "Navn": "Hundvågkrossen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,987667682"
+ },
+ {
+   "År": 2016,
+   "Ident": 32,
+   "Navn": "Kalhag",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,622222659"
+ },
+ {
+   "År": 2016,
+   "Ident": 33,
+   "Navn": "Hinnalia",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,979078582"
+ },
+ {
+   "År": 2016,
+   "Ident": 34,
+   "Navn": "Storaberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,970989992"
+ },
+ {
+   "År": 2016,
+   "Ident": 35,
+   "Navn": "Godeset",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,799158087"
+ },
+ {
+   "År": 2016,
+   "Ident": 36,
+   "Navn": "Gausel",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,760214385"
+ },
+ {
+   "År": 2016,
+   "Ident": 37,
+   "Navn": "Hinna",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,26667267"
+ },
+ {
+   "År": 2016,
+   "Ident": 38,
+   "Navn": "Øvre Vaulen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,597217717"
+ },
+ {
+   "År": 2016,
+   "Ident": 39,
+   "Navn": "Auglend",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,325737262"
+ },
+ {
+   "År": 2016,
+   "Ident": 40,
+   "Navn": "Kristianslyst",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,438794839"
+ },
+ {
+   "År": 2016,
+   "Ident": 41,
+   "Navn": "Vaulen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,20648312"
+ },
+ {
+   "År": 2016,
+   "Ident": 42,
+   "Navn": "Mariero",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,081377466"
+ },
+ {
+   "År": 2016,
+   "Ident": 43,
+   "Navn": "Åsen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,425966821"
+ },
+ {
+   "År": 2016,
+   "Ident": 44,
+   "Navn": "Tjensvoll",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,378462755"
+ },
+ {
+   "År": 2016,
+   "Ident": 45,
+   "Navn": "Solborg",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,751581636"
+ },
+ {
+   "År": 2016,
+   "Ident": 46,
+   "Navn": "Øvre Tjensvoll",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,87808849"
+ },
+ {
+   "År": 2016,
+   "Ident": 47,
+   "Navn": "Madlamark",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,604562159"
+ },
+ {
+   "År": 2016,
+   "Ident": 48,
+   "Navn": "Jernaldergarden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,773439072"
+ },
+ {
+   "År": 2016,
+   "Ident": 49,
+   "Navn": "Madlalia",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,034638144"
+ },
+ {
+   "År": 2016,
+   "Ident": 50,
+   "Navn": "Stokka",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,824840473"
+ },
+ {
+   "År": 2016,
+   "Ident": 51,
+   "Navn": "Tastarustå",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,998784562"
+ },
+ {
+   "År": 2016,
+   "Ident": 52,
+   "Navn": "Molkeholen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,018698861"
+ },
+ {
+   "År": 2016,
+   "Ident": 53,
+   "Navn": "Madlaforen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,58695623"
+ },
+ {
+   "År": 2016,
+   "Ident": 54,
+   "Navn": "Sandal",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,184034462"
+ },
+ {
+   "År": 2016,
+   "Ident": 55,
+   "Navn": "Madlatuå",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,261297653"
+ },
+ {
+   "År": 2016,
+   "Ident": 56,
+   "Navn": "Smiodden",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,324639626"
+ },
+ {
+   "År": 2016,
+   "Ident": 57,
+   "Navn": "Mjug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,052405707"
+ },
+ {
+   "År": 2016,
+   "Ident": 58,
+   "Navn": "Ørnaberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,534795284"
+ },
+ {
+   "År": 2016,
+   "Ident": 59,
+   "Navn": "Sundekrossen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,922141095"
+ },
+ {
+   "År": 2016,
+   "Ident": 60,
+   "Navn": "Malthaug",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,299419122"
+ },
+ {
+   "År": 2016,
+   "Ident": 61,
+   "Navn": "Gjeraberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,959206304"
+ },
+ {
+   "År": 2016,
+   "Ident": 62,
+   "Navn": "Byhaugen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,183774506"
+ },
+ {
+   "År": 2016,
+   "Ident": 63,
+   "Navn": " 63 Vardenes",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,857084851"
+ },
+ {
+   "År": 2016,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,37162343"
+ },
+ {
+   "År": 2016,
+   "Ident": 65,
+   "Navn": "Smiene",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,573584396"
+ },
+ {
+   "År": 2016,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,521264976"
+ },
+ {
+   "År": 2016,
+   "Ident": 67,
+   "Navn": "Forusstraen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,211071973"
+ },
+ {
+   "År": 2016,
+   "Ident": 68,
+   "Navn": "Husaberget",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,709034333"
+ },
+ {
+   "År": 2016,
+   "Ident": 69,
+   "Navn": "Boganes",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,850411904"
+ },
+ {
+   "År": 2016,
+   "Ident": 70,
+   "Navn": "Søra Bråde",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,460756758"
+ },
+ {
+   "År": 2016,
+   "Ident": 71,
+   "Navn": "Jåttåvågen",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "25,66005322"
+ },
+ {
+   "År": 2016,
+   "Ident": 99,
+   "Navn": "Uoppgitt",
+   "Indiaktor": "Alderstandardiserte dødsrater - Menn",
+   "parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,099109167"
+ }
+]

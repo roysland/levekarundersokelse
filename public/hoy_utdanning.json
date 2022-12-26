@@ -1,0 +1,3354 @@
+[
+ {
+   "År": 2005,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,97178683"
+ },
+ {
+   "År": 2005,
+   "Ident": 2,
+   "Navn": "Badedammen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,79039301"
+ },
+ {
+   "År": 2005,
+   "Ident": 3,
+   "Navn": "Sentrum",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,61252446"
+ },
+ {
+   "År": 2005,
+   "Ident": 4,
+   "Navn": "Storhaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,61252446"
+ },
+ {
+   "År": 2005,
+   "Ident": 5,
+   "Navn": "Nylund",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,78319783"
+ },
+ {
+   "År": 2005,
+   "Ident": 6,
+   "Navn": "Spilderhaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,02877698"
+ },
+ {
+   "År": 2005,
+   "Ident": 7,
+   "Navn": "Rosenli",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,97416974"
+ },
+ {
+   "År": 2005,
+   "Ident": 8,
+   "Navn": "Varden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,34693878"
+ },
+ {
+   "År": 2005,
+   "Ident": 9,
+   "Navn": "Løkkeveien",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,82692308"
+ },
+ {
+   "År": 2005,
+   "Ident": 10,
+   "Navn": "Stadion",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "21,55963303"
+ },
+ {
+   "År": 2005,
+   "Ident": 11,
+   "Navn": "Gamlingen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,26923077"
+ },
+ {
+   "År": 2005,
+   "Ident": 12,
+   "Navn": "Lagårdsvegen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,57831325"
+ },
+ {
+   "År": 2005,
+   "Ident": 13,
+   "Navn": "Vålandstårnet",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,85561497"
+ },
+ {
+   "År": 2005,
+   "Ident": 14,
+   "Navn": "Strømsbrua",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,44966443"
+ },
+ {
+   "År": 2005,
+   "Ident": 15,
+   "Navn": "Sentralsjukehuset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,76518219"
+ },
+ {
+   "År": 2005,
+   "Ident": 16,
+   "Navn": "Bekkefaret",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,394160584"
+ },
+ {
+   "År": 2005,
+   "Ident": 17,
+   "Navn": "Ullandhaug skole",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,222222222"
+ },
+ {
+   "År": 2005,
+   "Ident": 18,
+   "Navn": "Ullandhaugskråningen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,54019293"
+ },
+ {
+   "År": 2005,
+   "Ident": 19,
+   "Navn": "Hillevåg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,944751381"
+ },
+ {
+   "År": 2005,
+   "Ident": 20,
+   "Navn": "Bjergsted",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,97175141"
+ },
+ {
+   "År": 2005,
+   "Ident": 21,
+   "Navn": "Gramstadhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "22,9787234"
+ },
+ {
+   "År": 2005,
+   "Ident": 22,
+   "Navn": "Bakkeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,43518519"
+ },
+ {
+   "År": 2005,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11"
+ },
+ {
+   "År": 2005,
+   "Ident": 24,
+   "Navn": "Eiganes gravlund",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,51219512"
+ },
+ {
+   "År": 2005,
+   "Ident": 25,
+   "Navn": "Hjaltlandsgata",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,84076433"
+ },
+ {
+   "År": 2005,
+   "Ident": 26,
+   "Navn": "Øyane",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,746478873"
+ },
+ {
+   "År": 2005,
+   "Ident": 27,
+   "Navn": "Kråkeneset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,888888889"
+ },
+ {
+   "År": 2005,
+   "Ident": 28,
+   "Navn": "Skeie skole",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "1,282051282"
+ },
+ {
+   "År": 2005,
+   "Ident": 29,
+   "Navn": "Kvitepynten",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,339449541"
+ },
+ {
+   "År": 2005,
+   "Ident": 30,
+   "Navn": "Prestastø",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,35646688"
+ },
+ {
+   "År": 2005,
+   "Ident": 31,
+   "Navn": "Hundvågkrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,75"
+ },
+ {
+   "År": 2005,
+   "Ident": 32,
+   "Navn": "Kalhag",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,25"
+ },
+ {
+   "År": 2005,
+   "Ident": 33,
+   "Navn": "Hinnalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,42056075"
+ },
+ {
+   "År": 2005,
+   "Ident": 34,
+   "Navn": "Storaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,87603306"
+ },
+ {
+   "År": 2005,
+   "Ident": 35,
+   "Navn": "Godeset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,5631068"
+ },
+ {
+   "År": 2005,
+   "Ident": 36,
+   "Navn": "Gausel",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,42675159"
+ },
+ {
+   "År": 2005,
+   "Ident": 37,
+   "Navn": "Hinna",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,27433628"
+ },
+ {
+   "År": 2005,
+   "Ident": 38,
+   "Navn": "Ryggjaveien",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,86715867"
+ },
+ {
+   "År": 2005,
+   "Ident": 39,
+   "Navn": "Hetland vgs.",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,59227468"
+ },
+ {
+   "År": 2005,
+   "Ident": 40,
+   "Navn": "Kristianslyst",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,27272727"
+ },
+ {
+   "År": 2005,
+   "Ident": 41,
+   "Navn": "Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,80733945"
+ },
+ {
+   "År": 2005,
+   "Ident": 42,
+   "Navn": "Mariero",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,27014218"
+ },
+ {
+   "År": 2005,
+   "Ident": 43,
+   "Navn": "Åsen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,94339623"
+ },
+ {
+   "År": 2005,
+   "Ident": 44,
+   "Navn": "Kunstløpveien",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,28571429"
+ },
+ {
+   "År": 2005,
+   "Ident": 45,
+   "Navn": "Solborg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,20111732"
+ },
+ {
+   "År": 2005,
+   "Ident": 46,
+   "Navn": "Orions gate",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,27272727"
+ },
+ {
+   "År": 2005,
+   "Ident": 47,
+   "Navn": "Madlamark",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "28,14070352"
+ },
+ {
+   "År": 2005,
+   "Ident": 48,
+   "Navn": "Haugtussa",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,70967742"
+ },
+ {
+   "År": 2005,
+   "Ident": 49,
+   "Navn": "Madlalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,62068966"
+ },
+ {
+   "År": 2005,
+   "Ident": 50,
+   "Navn": "Stokka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "23,70689655"
+ },
+ {
+   "År": 2005,
+   "Ident": 51,
+   "Navn": "Tastarustå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,766917293"
+ },
+ {
+   "År": 2005,
+   "Ident": 52,
+   "Navn": "Molkeholen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,73469388"
+ },
+ {
+   "År": 2005,
+   "Ident": 53,
+   "Navn": "Madlaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,45751634"
+ },
+ {
+   "År": 2005,
+   "Ident": 54,
+   "Navn": "Sandal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "21,77419355"
+ },
+ {
+   "År": 2005,
+   "Ident": 55,
+   "Navn": "Madlatua",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,20448179"
+ },
+ {
+   "År": 2005,
+   "Ident": 56,
+   "Navn": "Smiodden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,448275862"
+ },
+ {
+   "År": 2005,
+   "Ident": 57,
+   "Navn": "Mjug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,111821086"
+ },
+ {
+   "År": 2005,
+   "Ident": 58,
+   "Navn": "Ørnaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,390243902"
+ },
+ {
+   "År": 2005,
+   "Ident": 59,
+   "Navn": "Sundekrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,60869565"
+ },
+ {
+   "År": 2005,
+   "Ident": 60,
+   "Navn": "Malthaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,010928962"
+ },
+ {
+   "År": 2005,
+   "Ident": 61,
+   "Navn": "Gjeraberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,82113821"
+ },
+ {
+   "År": 2005,
+   "Ident": 62,
+   "Navn": "Vølstadvegen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,38670695"
+ },
+ {
+   "År": 2005,
+   "Ident": 63,
+   "Navn": " 63 Vardenes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,35451505"
+ },
+ {
+   "År": 2005,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,469273743"
+ },
+ {
+   "År": 2005,
+   "Ident": 65,
+   "Navn": "Tasta bydelssenter",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,69349845"
+ },
+ {
+   "År": 2005,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,465517241"
+ },
+ {
+   "År": 2005,
+   "Ident": 67,
+   "Navn": "Forusstranda",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,39712919"
+ },
+ {
+   "År": 2005,
+   "Ident": 68,
+   "Navn": "Husaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,90407674"
+ },
+ {
+   "År": 2005,
+   "Ident": 99,
+   "Navn": "Uplassert",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,174692049"
+ },
+ {
+   "År": 2008,
+   "Ident": 50,
+   "Navn": "(50) Stokka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "26,69491525"
+ },
+ {
+   "År": 2008,
+   "Ident": 36,
+   "Navn": "(36) Gausel",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "25,24916944"
+ },
+ {
+   "År": 2008,
+   "Ident": 25,
+   "Navn": "(25) Ytre Eiganes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,83660131"
+ },
+ {
+   "År": 2008,
+   "Ident": 14,
+   "Navn": "(14) Ytre Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,72527473"
+ },
+ {
+   "År": 2008,
+   "Ident": 21,
+   "Navn": "(21) Gramstadhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "24,24242424"
+ },
+ {
+   "År": 2008,
+   "Ident": 8,
+   "Navn": "(08) Varden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "23,17073171"
+ },
+ {
+   "År": 2008,
+   "Ident": 54,
+   "Navn": "(54) Sandal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "23,16176471"
+ },
+ {
+   "År": 2008,
+   "Ident": 13,
+   "Navn": "(13) Våland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "23,15789474"
+ },
+ {
+   "År": 2008,
+   "Ident": 5,
+   "Navn": "(05) Nylund",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "21,22905028"
+ },
+ {
+   "År": 2008,
+   "Ident": 7,
+   "Navn": "(07) Rosenli              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,68965517"
+ },
+ {
+   "År": 2008,
+   "Ident": 45,
+   "Navn": "(45) Solborg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,54054054"
+ },
+ {
+   "År": 2008,
+   "Ident": 68,
+   "Navn": "(68) Husaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,52845528"
+ },
+ {
+   "År": 2008,
+   "Ident": 41,
+   "Navn": "(41) Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "20,24291498"
+ },
+ {
+   "År": 2008,
+   "Ident": 20,
+   "Navn": "(20) Bjergsted",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,45205479"
+ },
+ {
+   "År": 2008,
+   "Ident": 44,
+   "Navn": "(44) Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "19,42857143"
+ },
+ {
+   "År": 2008,
+   "Ident": 15,
+   "Navn": "(15) Sentralsjukehuset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,79432624"
+ },
+ {
+   "År": 2008,
+   "Ident": 38,
+   "Navn": "(38) Øvre Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,5"
+ },
+ {
+   "År": 2008,
+   "Ident": 47,
+   "Navn": "(47) Madlamark",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,47826087"
+ },
+ {
+   "År": 2008,
+   "Ident": 33,
+   "Navn": "(33) Hinnalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "18,25726141"
+ },
+ {
+   "År": 2008,
+   "Ident": 24,
+   "Navn": "(24) Stokkadalen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,97752809"
+ },
+ {
+   "År": 2008,
+   "Ident": 12,
+   "Navn": "(12) Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,88856305"
+ },
+ {
+   "År": 2008,
+   "Ident": 9,
+   "Navn": "(09) Kannik",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,64705882"
+ },
+ {
+   "År": 2008,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,5059952"
+ },
+ {
+   "År": 2008,
+   "Ident": 52,
+   "Navn": "(52) Molkeholen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,35159817"
+ },
+ {
+   "År": 2008,
+   "Ident": 42,
+   "Navn": "(42) Mariero",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,30769231"
+ },
+ {
+   "År": 2008,
+   "Ident": 18,
+   "Navn": "(18) Ullandhaugskråningen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,28813559"
+ },
+ {
+   "År": 2008,
+   "Ident": 46,
+   "Navn": "(46) Øvre Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,24137931"
+ },
+ {
+   "År": 2008,
+   "Ident": 35,
+   "Navn": "(35) Godeset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "17,15210356"
+ },
+ {
+   "År": 2008,
+   "Ident": 34,
+   "Navn": "(34) Storaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,96202532"
+ },
+ {
+   "År": 2008,
+   "Ident": 40,
+   "Navn": "(40) Kristianlyst",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,59192825"
+ },
+ {
+   "År": 2008,
+   "Ident": 11,
+   "Navn": "(11) Kiellandmyrå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "16,58291457"
+ },
+ {
+   "År": 2008,
+   "Ident": 3,
+   "Navn": "(03) Sentrum              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,90909091"
+ },
+ {
+   "År": 2008,
+   "Ident": 37,
+   "Navn": "(37) Hinna",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,49295775"
+ },
+ {
+   "År": 2008,
+   "Ident": 10,
+   "Navn": "(10) Ledaal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "15,09433962"
+ },
+ {
+   "År": 2008,
+   "Ident": 2,
+   "Navn": "(02) Badedammen           ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,87804878"
+ },
+ {
+   "År": 2008,
+   "Ident": 49,
+   "Navn": "(49) Madlalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,87603306"
+ },
+ {
+   "År": 2008,
+   "Ident": 22,
+   "Navn": "(22) Bakkeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,67505241"
+ },
+ {
+   "År": 2008,
+   "Ident": 39,
+   "Navn": "(39) Auglend",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "14,22764228"
+ },
+ {
+   "År": 2008,
+   "Ident": 6,
+   "Navn": "(06) Spilderhaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,55932203"
+ },
+ {
+   "År": 2008,
+   "Ident": 4,
+   "Navn": "(04) Storhaug             ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,45132743"
+ },
+ {
+   "År": 2008,
+   "Ident": 48,
+   "Navn": "(48) Jernaldergården      ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,36032389"
+ },
+ {
+   "År": 2008,
+   "Ident": 65,
+   "Navn": "(65) Smiene",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "13,26164875"
+ },
+ {
+   "År": 2008,
+   "Ident": 55,
+   "Navn": "(55) Madlatua",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,96296296"
+ },
+ {
+   "År": 2008,
+   "Ident": 59,
+   "Navn": "(59) Sundekrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,74509804"
+ },
+ {
+   "År": 2008,
+   "Ident": 62,
+   "Navn": "(62) Byhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,62458472"
+ },
+ {
+   "År": 2008,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "12,57668712"
+ },
+ {
+   "År": 2008,
+   "Ident": 19,
+   "Navn": "(19) Hillevåg             ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,84834123"
+ },
+ {
+   "År": 2008,
+   "Ident": 43,
+   "Navn": "(43) Åsen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,07266436"
+ },
+ {
+   "År": 2008,
+   "Ident": 61,
+   "Navn": "(61) Gjerdaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "11,05990783"
+ },
+ {
+   "År": 2008,
+   "Ident": 53,
+   "Navn": "(53) Madlaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,73825503"
+ },
+ {
+   "År": 2008,
+   "Ident": 17,
+   "Navn": "(17) Saxemarka            ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "10,57692308"
+ },
+ {
+   "År": 2008,
+   "Ident": 31,
+   "Navn": "(31) Hundvågkrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,561752988"
+ },
+ {
+   "År": 2008,
+   "Ident": 30,
+   "Navn": "(30) Prestastø",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,407665505"
+ },
+ {
+   "År": 2008,
+   "Ident": 63,
+   "Navn": " 63 Vardenes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "9,375"
+ },
+ {
+   "År": 2008,
+   "Ident": 26,
+   "Navn": "(26) Øyane",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,786610879"
+ },
+ {
+   "År": 2008,
+   "Ident": 60,
+   "Navn": "(60) Malthaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "8,571428571"
+ },
+ {
+   "År": 2008,
+   "Ident": 67,
+   "Navn": "(67) Forusstraen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,692307692"
+ },
+ {
+   "År": 2008,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,407407407"
+ },
+ {
+   "År": 2008,
+   "Ident": 57,
+   "Navn": "(57) Mjug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,272727273"
+ },
+ {
+   "År": 2008,
+   "Ident": 16,
+   "Navn": "(16) Bekkefaret",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,246376812"
+ },
+ {
+   "År": 2008,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "7,189542484"
+ },
+ {
+   "År": 2008,
+   "Ident": 27,
+   "Navn": "(27) Kråkeneset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,707317073"
+ },
+ {
+   "År": 2008,
+   "Ident": 51,
+   "Navn": "(51) Tastarustå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "6,422018349"
+ },
+ {
+   "År": 2008,
+   "Ident": 29,
+   "Navn": "(29) Kvitepynten",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "5,829596413"
+ },
+ {
+   "År": 2008,
+   "Ident": 56,
+   "Navn": "(56) Smiodden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,591836735"
+ },
+ {
+   "År": 2008,
+   "Ident": 58,
+   "Navn": "(58) Ørnaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,347826087"
+ },
+ {
+   "År": 2008,
+   "Ident": 28,
+   "Navn": "(28) Skeie                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "4,320987654"
+ },
+ {
+   "År": 2008,
+   "Ident": 32,
+   "Navn": "(32) Kalhag",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "3,365384615"
+ },
+ {
+   "År": 2010,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "41,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 2,
+   "Navn": "  02   Badedammen               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 3,
+   "Navn": "  03   Sentrum                  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58,9"
+ },
+ {
+   "År": 2010,
+   "Ident": 4,
+   "Navn": "  04   Bergeland                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "55,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 5,
+   "Navn": "  05   Nylund                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62"
+ },
+ {
+   "År": 2010,
+   "Ident": 6,
+   "Navn": "  06   Lervig                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 7,
+   "Navn": "  07   Emmaus                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,9"
+ },
+ {
+   "År": 2010,
+   "Ident": 8,
+   "Navn": "  08   Varden                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 9,
+   "Navn": "  09   Kannik                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 10,
+   "Navn": "  10   Ledaal                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,2"
+ },
+ {
+   "År": 2010,
+   "Ident": 11,
+   "Navn": "  11   Kiellandmyrå             ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 12,
+   "Navn": "  12   Lagård                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,6"
+ },
+ {
+   "År": 2010,
+   "Ident": 13,
+   "Navn": "  13   Våland                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,3"
+ },
+ {
+   "År": 2010,
+   "Ident": 14,
+   "Navn": "  14   Ytre Lagård              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 15,
+   "Navn": "  15   Sentralsjukehuset        ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,1"
+ },
+ {
+   "År": 2010,
+   "Ident": 16,
+   "Navn": "  16   Bekkefaret               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,7"
+ },
+ {
+   "År": 2010,
+   "Ident": 17,
+   "Navn": "  17   Saxemark                 ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "48,1"
+ },
+ {
+   "År": 2010,
+   "Ident": 18,
+   "Navn": "  18   Ullandhaugskråningen     ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63"
+ },
+ {
+   "År": 2010,
+   "Ident": 19,
+   "Navn": "  19   Kvalaberg                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "43,6"
+ },
+ {
+   "År": 2010,
+   "Ident": 20,
+   "Navn": "  20   Bjergsted                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "57,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 21,
+   "Navn": "  21   Gramstadhaugen           ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 22,
+   "Navn": "  22   Bakkeland                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "57,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 24,
+   "Navn": "  24   Stokkadalen              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 25,
+   "Navn": "  25   Ytre Eiganes             ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,2"
+ },
+ {
+   "År": 2010,
+   "Ident": 26,
+   "Navn": "  26   Øyane                    ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "46,1"
+ },
+ {
+   "År": 2010,
+   "Ident": 27,
+   "Navn": "  27   Kråkeneset               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "40,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 28,
+   "Navn": "  28   Skeie                    ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "27"
+ },
+ {
+   "År": 2010,
+   "Ident": 29,
+   "Navn": "  29   Kvitepynten              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "38,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 30,
+   "Navn": "  30   Prestastø                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "40,3"
+ },
+ {
+   "År": 2010,
+   "Ident": 31,
+   "Navn": "  31   Hundvågkrossen           ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,7"
+ },
+ {
+   "År": 2010,
+   "Ident": 32,
+   "Navn": "  32   Kalhag                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,3"
+ },
+ {
+   "År": 2010,
+   "Ident": 33,
+   "Navn": "  33   Hinnalia                 ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66"
+ },
+ {
+   "År": 2010,
+   "Ident": 34,
+   "Navn": "  34   Storaberget              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "47,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 35,
+   "Navn": "  35   Godeset                  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "50,9"
+ },
+ {
+   "År": 2010,
+   "Ident": 36,
+   "Navn": "  36   Gausel                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 37,
+   "Navn": "  37   Hinna                    ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 38,
+   "Navn": "  38   Øvre Vaulen              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,6"
+ },
+ {
+   "År": 2010,
+   "Ident": 39,
+   "Navn": "  39   Auglend                  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "55,1"
+ },
+ {
+   "År": 2010,
+   "Ident": 40,
+   "Navn": "  40   Kristianslyst            ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 41,
+   "Navn": "  41   Vaulen                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "69,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 42,
+   "Navn": "  42   Mariero                  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 43,
+   "Navn": "  43   Åsen                     ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,9"
+ },
+ {
+   "År": 2010,
+   "Ident": 44,
+   "Navn": "  44   Tjensvoll                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,2"
+ },
+ {
+   "År": 2010,
+   "Ident": 45,
+   "Navn": "  45   Solborg                  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "55,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 46,
+   "Navn": "  46   Øvre Tjensvoll           ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 47,
+   "Navn": "  47   Madlamark                ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,9"
+ },
+ {
+   "År": 2010,
+   "Ident": 48,
+   "Navn": "  48   Jernaldergarden          ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "53,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 49,
+   "Navn": "  49   Madlalia                 ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,2"
+ },
+ {
+   "År": 2010,
+   "Ident": 50,
+   "Navn": "  50   Stokka                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "76,7"
+ },
+ {
+   "År": 2010,
+   "Ident": 51,
+   "Navn": "  51   Tastarustå               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "48,2"
+ },
+ {
+   "År": 2010,
+   "Ident": 52,
+   "Navn": "  52   Molkeholen               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 53,
+   "Navn": "  53   Madlaforen               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "51"
+ },
+ {
+   "År": 2010,
+   "Ident": 54,
+   "Navn": "  54   Sandal                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,7"
+ },
+ {
+   "År": 2010,
+   "Ident": 55,
+   "Navn": "  55   Madlatuå                 ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,1"
+ },
+ {
+   "År": 2010,
+   "Ident": 56,
+   "Navn": "  56   Smiodden                 ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "22,3"
+ },
+ {
+   "År": 2010,
+   "Ident": 57,
+   "Navn": "  57   Mjug                     ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "32,1"
+ },
+ {
+   "År": 2010,
+   "Ident": 58,
+   "Navn": "  58   Ørnaberget               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "30,3"
+ },
+ {
+   "År": 2010,
+   "Ident": 59,
+   "Navn": "  59   Sundekrossen             ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "45,2"
+ },
+ {
+   "År": 2010,
+   "Ident": 60,
+   "Navn": "  60   Malthaug                 ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,5"
+ },
+ {
+   "År": 2010,
+   "Ident": 61,
+   "Navn": "  61   Gjeraberget              ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 62,
+   "Navn": "  62   Byhaugen                 ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "51"
+ },
+ {
+   "År": 2010,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "41,7"
+ },
+ {
+   "År": 2010,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "47"
+ },
+ {
+   "År": 2010,
+   "Ident": 65,
+   "Navn": "  65   Smiene                   ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,8"
+ },
+ {
+   "År": 2010,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "49,3"
+ },
+ {
+   "År": 2010,
+   "Ident": 67,
+   "Navn": "  67   Forusstranda             ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "41"
+ },
+ {
+   "År": 2010,
+   "Ident": 68,
+   "Navn": "  68   Husaberget               ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,4"
+ },
+ {
+   "År": 2010,
+   "Ident": 69,
+   "Navn": "  69   Boganes                  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,6"
+ },
+ {
+   "År": 2010,
+   "Ident": 99,
+   "Navn": "Uoppgitt",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "45,3"
+ },
+ {
+   "År": 2012,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "44,86"
+ },
+ {
+   "År": 2012,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,39"
+ },
+ {
+   "År": 2012,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,8"
+ },
+ {
+   "År": 2012,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,31"
+ },
+ {
+   "År": 2012,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,58"
+ },
+ {
+   "År": 2012,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,15"
+ },
+ {
+   "År": 2012,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,06"
+ },
+ {
+   "År": 2012,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "73,33"
+ },
+ {
+   "År": 2012,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,41"
+ },
+ {
+   "År": 2012,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "70,87"
+ },
+ {
+   "År": 2012,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,11"
+ },
+ {
+   "År": 2012,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,19"
+ },
+ {
+   "År": 2012,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,95"
+ },
+ {
+   "År": 2012,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,78"
+ },
+ {
+   "År": 2012,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,34"
+ },
+ {
+   "År": 2012,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "55,77"
+ },
+ {
+   "År": 2012,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "51,64"
+ },
+ {
+   "År": 2012,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,61"
+ },
+ {
+   "År": 2012,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,63"
+ },
+ {
+   "År": 2012,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,14"
+ },
+ {
+   "År": 2012,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,43"
+ },
+ {
+   "År": 2012,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,14"
+ },
+ {
+   "År": 2012,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58,33"
+ },
+ {
+   "År": 2012,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,23"
+ },
+ {
+   "År": 2012,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "69,33"
+ },
+ {
+   "År": 2012,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "45,3"
+ },
+ {
+   "År": 2012,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,06"
+ },
+ {
+   "År": 2012,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "29,05"
+ },
+ {
+   "År": 2012,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "39,37"
+ },
+ {
+   "År": 2012,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "46,55"
+ },
+ {
+   "År": 2012,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "38,53"
+ },
+ {
+   "År": 2012,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "44"
+ },
+ {
+   "År": 2012,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,03"
+ },
+ {
+   "År": 2012,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,43"
+ },
+ {
+   "År": 2012,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "55,74"
+ },
+ {
+   "År": 2012,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,19"
+ },
+ {
+   "År": 2012,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58,46"
+ },
+ {
+   "År": 2012,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,48"
+ },
+ {
+   "År": 2012,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,99"
+ },
+ {
+   "År": 2012,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,67"
+ },
+ {
+   "År": 2012,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,43"
+ },
+ {
+   "År": 2012,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,84"
+ },
+ {
+   "År": 2012,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,15"
+ },
+ {
+   "År": 2012,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,67"
+ },
+ {
+   "År": 2012,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,67"
+ },
+ {
+   "År": 2012,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,88"
+ },
+ {
+   "År": 2012,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,45"
+ },
+ {
+   "År": 2012,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,51"
+ },
+ {
+   "År": 2012,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,77"
+ },
+ {
+   "År": 2012,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "77,73"
+ },
+ {
+   "År": 2012,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "46,81"
+ },
+ {
+   "År": 2012,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,43"
+ },
+ {
+   "År": 2012,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "57,52"
+ },
+ {
+   "År": 2012,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "73,14"
+ },
+ {
+   "År": 2012,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,38"
+ },
+ {
+   "År": 2012,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "34,12"
+ },
+ {
+   "År": 2012,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,83"
+ },
+ {
+   "År": 2012,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "36,6"
+ },
+ {
+   "År": 2012,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "51,92"
+ },
+ {
+   "År": 2012,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56"
+ },
+ {
+   "År": 2012,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,96"
+ },
+ {
+   "År": 2012,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,21"
+ },
+ {
+   "År": 2012,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "50"
+ },
+ {
+   "År": 2012,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "48,65"
+ },
+ {
+   "År": 2012,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,15"
+ },
+ {
+   "År": 2012,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,7"
+ },
+ {
+   "År": 2012,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,57"
+ },
+ {
+   "År": 2012,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,53"
+ },
+ {
+   "År": 2012,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58,43"
+ },
+ {
+   "År": 2014,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "45,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68"
+ },
+ {
+   "År": 2014,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "70,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "70,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64"
+ },
+ {
+   "År": 2014,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58"
+ },
+ {
+   "År": 2014,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "57,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "50"
+ },
+ {
+   "År": 2014,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "75,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "48,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "38,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "32,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "49,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "42,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "37,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66"
+ },
+ {
+   "År": 2014,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62"
+ },
+ {
+   "År": 2014,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66"
+ },
+ {
+   "År": 2014,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "69,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "70"
+ },
+ {
+   "År": 2014,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "73,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "70,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "77,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "75,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,6"
+ },
+ {
+   "År": 2014,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "40,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "40,2"
+ },
+ {
+   "År": 2014,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "36,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,5"
+ },
+ {
+   "År": 2014,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "50,8"
+ },
+ {
+   "År": 2014,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "46,1"
+ },
+ {
+   "År": 2014,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "52,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,9"
+ },
+ {
+   "År": 2014,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,7"
+ },
+ {
+   "År": 2014,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,3"
+ },
+ {
+   "År": 2014,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "59,4"
+ },
+ {
+   "År": 2014,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "51,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "46,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 2,
+   "Navn": "02 Badedammen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 3,
+   "Navn": "03 Sentrum",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "55,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 4,
+   "Navn": "04 Bergeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 5,
+   "Navn": "05 Nylund",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 6,
+   "Navn": "06 Lervig",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 7,
+   "Navn": "07 Emmaus",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 8,
+   "Navn": "08 Varden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "69,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 9,
+   "Navn": "09 Kannik",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 10,
+   "Navn": "10 Ledaal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "70,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 11,
+   "Navn": "11 Kiellandmyrå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 12,
+   "Navn": "12 Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 13,
+   "Navn": "13 Vålandshaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "73,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 14,
+   "Navn": "14 Ytre Lagård",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "62,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 15,
+   "Navn": "15 Sentralsjukehuset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 16,
+   "Navn": "16 Bekkefaret",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 17,
+   "Navn": "17 Saxemarka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "57,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 18,
+   "Navn": "18 Ullandhaugskråningen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 19,
+   "Navn": "19 Kvalaberg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "47,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 20,
+   "Navn": "20 Bjergsted",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 21,
+   "Navn": "21 Gramstadhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "74,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 22,
+   "Navn": "22 Bakkeland",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 24,
+   "Navn": "24 Stokkadalen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 25,
+   "Navn": "25 Ytre Eiganes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "69,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 26,
+   "Navn": "26 Øyane",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "41,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 27,
+   "Navn": "27 Kråkeneset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "42,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 28,
+   "Navn": "28 Skeie",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "32,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 29,
+   "Navn": "29 Kvitepynten",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "39,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 30,
+   "Navn": "30 Prestastø",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "51,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 31,
+   "Navn": "31 Hundvågkrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "42"
+ },
+ {
+   "År": 2016,
+   "Ident": 32,
+   "Navn": "32 Kalhag",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "32,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 33,
+   "Navn": "33 Hinnalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 34,
+   "Navn": "34 Storaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "53,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 35,
+   "Navn": "35 Godeset",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 36,
+   "Navn": "36 Gausel",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 37,
+   "Navn": "37 Hinnakrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 38,
+   "Navn": "38 Øvre Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 39,
+   "Navn": "39Auglend",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 40,
+   "Navn": "40 Kristianslyst",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 41,
+   "Navn": "41 Vaulen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68"
+ },
+ {
+   "År": 2016,
+   "Ident": 42,
+   "Navn": "42 Mariero",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "64,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 43,
+   "Navn": "43 Åsen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58"
+ },
+ {
+   "År": 2016,
+   "Ident": 44,
+   "Navn": "44 Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 45,
+   "Navn": "45 Solborg",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "66,7"
+ },
+ {
+   "År": 2016,
+   "Ident": 46,
+   "Navn": "46 Øvre Tjensvoll",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 47,
+   "Navn": "47 Madlamark",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "78,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 48,
+   "Navn": "48 Jernaldergarden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "63,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 49,
+   "Navn": "49 Madlalia",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "71,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 50,
+   "Navn": "50 Stokka",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "77,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 51,
+   "Navn": "51 Tastarustå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "42,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 52,
+   "Navn": "52 Molkeholen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "68,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 53,
+   "Navn": "53 Madlaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "61,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 54,
+   "Navn": "54 Sandal",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "77,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 55,
+   "Navn": "55 Madlatuå",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 56,
+   "Navn": "56 Smiodden",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "40"
+ },
+ {
+   "År": 2016,
+   "Ident": 57,
+   "Navn": "57 Mjug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "39,8"
+ },
+ {
+   "År": 2016,
+   "Ident": 58,
+   "Navn": "58 Ørnaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "36,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 59,
+   "Navn": "59 Sundekrossen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "51,9"
+ },
+ {
+   "År": 2016,
+   "Ident": 60,
+   "Navn": "60 Malthaug",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "58,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 61,
+   "Navn": "61 Gjeraberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 62,
+   "Navn": "62 Byhaugen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "49,6"
+ },
+ {
+   "År": 2016,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "48,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "56,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 65,
+   "Navn": "65 Smiene",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "57,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 67,
+   "Navn": "67 Forusstraen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "65,5"
+ },
+ {
+   "År": 2016,
+   "Ident": 68,
+   "Navn": "68 Husaberget",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "67,4"
+ },
+ {
+   "År": 2016,
+   "Ident": 69,
+   "Navn": "69 Boganes",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "60,1"
+ },
+ {
+   "År": 2016,
+   "Ident": 70,
+   "Navn": "70 Søra Bråde",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "54,2"
+ },
+ {
+   "År": 2016,
+   "Ident": 71,
+   "Navn": "71 Jåttåvågen",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "79,3"
+ },
+ {
+   "År": 2016,
+   "Ident": 99,
+   "Navn": "99 Uoppgitt",
+   "Indikator": "Høy utdanning, 30-39 år",
+   "parameter": "(% av befolkningen)",
+   "Variabel": "46,6"
+ }
+]

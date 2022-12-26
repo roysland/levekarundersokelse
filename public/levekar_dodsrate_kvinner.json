@@ -1,0 +1,1146 @@
+[
+ {
+   "År": 2014,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,232549874"
+ },
+ {
+   "År": 2014,
+   "Ident": 2,
+   "Navn": "Badedammen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "10,44806158"
+ },
+ {
+   "År": 2014,
+   "Ident": 3,
+   "Navn": "Sentrum",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,008229712"
+ },
+ {
+   "År": 2014,
+   "Ident": 4,
+   "Navn": "Storhaug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,028393206"
+ },
+ {
+   "År": 2014,
+   "Ident": 5,
+   "Navn": "Nylund",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,619227254"
+ },
+ {
+   "År": 2014,
+   "Ident": 6,
+   "Navn": "Spilderhaug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,384661989"
+ },
+ {
+   "År": 2014,
+   "Ident": 7,
+   "Navn": "Rosenli",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,715268487"
+ },
+ {
+   "År": 2014,
+   "Ident": 8,
+   "Navn": "Varden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,606964032"
+ },
+ {
+   "År": 2014,
+   "Ident": 9,
+   "Navn": "Kannik",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,954884284"
+ },
+ {
+   "År": 2014,
+   "Ident": 10,
+   "Navn": "Ledaal",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,39865248"
+ },
+ {
+   "År": 2014,
+   "Ident": 11,
+   "Navn": "Kiellandmyrå",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,732550597"
+ },
+ {
+   "År": 2014,
+   "Ident": 12,
+   "Navn": "Lagård",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,351468016"
+ },
+ {
+   "År": 2014,
+   "Ident": 13,
+   "Navn": "Våland",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,934117994"
+ },
+ {
+   "År": 2014,
+   "Ident": 14,
+   "Navn": "Ytre Lagård",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,034820188"
+ },
+ {
+   "År": 2014,
+   "Ident": 15,
+   "Navn": "Sentralsjukehuset",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,691897543"
+ },
+ {
+   "År": 2014,
+   "Ident": 16,
+   "Navn": "Bekkefaret",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,769733679"
+ },
+ {
+   "År": 2014,
+   "Ident": 17,
+   "Navn": "Saxemarka",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,422223527"
+ },
+ {
+   "År": 2014,
+   "Ident": 18,
+   "Navn": "Ullandhaugskråningen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,053568691"
+ },
+ {
+   "År": 2014,
+   "Ident": 19,
+   "Navn": "Hillevåg",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,537728075"
+ },
+ {
+   "År": 2014,
+   "Ident": 20,
+   "Navn": "Bjergsted",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,926188947"
+ },
+ {
+   "År": 2014,
+   "Ident": 21,
+   "Navn": "Gramstadhaugen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,63268346"
+ },
+ {
+   "År": 2014,
+   "Ident": 22,
+   "Navn": "Bakkeland",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,969678223"
+ },
+ {
+   "År": 2014,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,508734762"
+ },
+ {
+   "År": 2014,
+   "Ident": 24,
+   "Navn": "Stokkadalen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,856881094"
+ },
+ {
+   "År": 2014,
+   "Ident": 25,
+   "Navn": "Ytre Eiganes",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,687203873"
+ },
+ {
+   "År": 2014,
+   "Ident": 26,
+   "Navn": "Øyane",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,024549701"
+ },
+ {
+   "År": 2014,
+   "Ident": 27,
+   "Navn": "Kråkeneset",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,281447693"
+ },
+ {
+   "År": 2014,
+   "Ident": 28,
+   "Navn": "Skeie",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,900704346"
+ },
+ {
+   "År": 2014,
+   "Ident": 29,
+   "Navn": "Kvitepynten",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,020814387"
+ },
+ {
+   "År": 2014,
+   "Ident": 30,
+   "Navn": "Prestastø",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,705242846"
+ },
+ {
+   "År": 2014,
+   "Ident": 31,
+   "Navn": "Hundvågkrossen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,46816996"
+ },
+ {
+   "År": 2014,
+   "Ident": 32,
+   "Navn": "Kalhag",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,369405924"
+ },
+ {
+   "År": 2014,
+   "Ident": 33,
+   "Navn": "Hinnalia",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,284676699"
+ },
+ {
+   "År": 2014,
+   "Ident": 34,
+   "Navn": "Storaberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,686692468"
+ },
+ {
+   "År": 2014,
+   "Ident": 35,
+   "Navn": "Godeset",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,351791413"
+ },
+ {
+   "År": 2014,
+   "Ident": 36,
+   "Navn": "Gausel",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,965915914"
+ },
+ {
+   "År": 2014,
+   "Ident": 37,
+   "Navn": "Hinna",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,544042571"
+ },
+ {
+   "År": 2014,
+   "Ident": 38,
+   "Navn": "Øvre Vaulen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,712834454"
+ },
+ {
+   "År": 2014,
+   "Ident": 39,
+   "Navn": "Auglend",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,896398509"
+ },
+ {
+   "År": 2014,
+   "Ident": 40,
+   "Navn": "Kristianslyst",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,22893562"
+ },
+ {
+   "År": 2014,
+   "Ident": 41,
+   "Navn": "Vaulen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,626241901"
+ },
+ {
+   "År": 2014,
+   "Ident": 42,
+   "Navn": "Mariero",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,781248248"
+ },
+ {
+   "År": 2014,
+   "Ident": 43,
+   "Navn": "Åsen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,396272454"
+ },
+ {
+   "År": 2014,
+   "Ident": 44,
+   "Navn": "Tjensvoll",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,396085846"
+ },
+ {
+   "År": 2014,
+   "Ident": 45,
+   "Navn": "Solborg",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,713502787"
+ },
+ {
+   "År": 2014,
+   "Ident": 46,
+   "Navn": "Øvre Tjensvoll",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,209490969"
+ },
+ {
+   "År": 2014,
+   "Ident": 47,
+   "Navn": "Madlamark",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,185002241"
+ },
+ {
+   "År": 2014,
+   "Ident": 48,
+   "Navn": "Jernaldergarden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,41962491"
+ },
+ {
+   "År": 2014,
+   "Ident": 49,
+   "Navn": "Madlalia",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,06829825"
+ },
+ {
+   "År": 2014,
+   "Ident": 50,
+   "Navn": "Stokka",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,006293321"
+ },
+ {
+   "År": 2014,
+   "Ident": 51,
+   "Navn": "Tastarustå",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,39865014"
+ },
+ {
+   "År": 2014,
+   "Ident": 52,
+   "Navn": "Molkeholen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,990261219"
+ },
+ {
+   "År": 2014,
+   "Ident": 53,
+   "Navn": "Madlaforen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,501228427"
+ },
+ {
+   "År": 2014,
+   "Ident": 54,
+   "Navn": "Sandal",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,408728951"
+ },
+ {
+   "År": 2014,
+   "Ident": 55,
+   "Navn": "Madlatuå",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,320694762"
+ },
+ {
+   "År": 2014,
+   "Ident": 56,
+   "Navn": "Smiodden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,680872913"
+ },
+ {
+   "År": 2014,
+   "Ident": 57,
+   "Navn": "Mjug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,939954815"
+ },
+ {
+   "År": 2014,
+   "Ident": 58,
+   "Navn": "Ørnaberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,4566234"
+ },
+ {
+   "År": 2014,
+   "Ident": 59,
+   "Navn": "Sundekrossen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,337005446"
+ },
+ {
+   "År": 2014,
+   "Ident": 60,
+   "Navn": "Malthaug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,808409304"
+ },
+ {
+   "År": 2014,
+   "Ident": 61,
+   "Navn": "Gjeraberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,859181446"
+ },
+ {
+   "År": 2014,
+   "Ident": 62,
+   "Navn": "Byhaugen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,391821094"
+ },
+ {
+   "År": 2014,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,669724263"
+ },
+ {
+   "År": 2014,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,436244624"
+ },
+ {
+   "År": 2014,
+   "Ident": 65,
+   "Navn": "Smiene",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,558769045"
+ },
+ {
+   "År": 2014,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,301847923"
+ },
+ {
+   "År": 2014,
+   "Ident": 67,
+   "Navn": "Forusstraen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,1481171"
+ },
+ {
+   "År": 2014,
+   "Ident": 68,
+   "Navn": "Husaberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,230737679"
+ },
+ {
+   "År": 2014,
+   "Ident": 69,
+   "Navn": "Boganes",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,66447959"
+ },
+ {
+   "År": 2014,
+   "Ident": 70,
+   "Navn": "Søra Bråde",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "1,965190459"
+ },
+ {
+   "År": 2014,
+   "Ident": 99,
+   "Navn": "Uoppgitt",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,687550741"
+ },
+ {
+   "År": 2016,
+   "Ident": 1,
+   "Navn": "01 Buøy",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,143814802"
+ },
+ {
+   "År": 2016,
+   "Ident": 2,
+   "Navn": "Badedammen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,644320878"
+ },
+ {
+   "År": 2016,
+   "Ident": 3,
+   "Navn": "Sentrum",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,13086698"
+ },
+ {
+   "År": 2016,
+   "Ident": 4,
+   "Navn": "Storhaug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,497769239"
+ },
+ {
+   "År": 2016,
+   "Ident": 5,
+   "Navn": "Nylund",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,143141437"
+ },
+ {
+   "År": 2016,
+   "Ident": 6,
+   "Navn": "Spilderhaug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,638416658"
+ },
+ {
+   "År": 2016,
+   "Ident": 7,
+   "Navn": "Rosenli",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,597161712"
+ },
+ {
+   "År": 2016,
+   "Ident": 8,
+   "Navn": "Varden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,459625816"
+ },
+ {
+   "År": 2016,
+   "Ident": 9,
+   "Navn": "Kannik",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,501172269"
+ },
+ {
+   "År": 2016,
+   "Ident": 10,
+   "Navn": "Ledaal",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,089528228"
+ },
+ {
+   "År": 2016,
+   "Ident": 11,
+   "Navn": "Kiellandmyrå",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,134541976"
+ },
+ {
+   "År": 2016,
+   "Ident": 12,
+   "Navn": "Lagård",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,424243902"
+ },
+ {
+   "År": 2016,
+   "Ident": 13,
+   "Navn": "Våland",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,4569734"
+ },
+ {
+   "År": 2016,
+   "Ident": 14,
+   "Navn": "Ytre Lagård",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,276147253"
+ },
+ {
+   "År": 2016,
+   "Ident": 15,
+   "Navn": "Sentralsjukehuset",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,482183832"
+ },
+ {
+   "År": 2016,
+   "Ident": 16,
+   "Navn": "Bekkefaret",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,431128113"
+ },
+ {
+   "År": 2016,
+   "Ident": 17,
+   "Navn": "Saxemarka",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,706964842"
+ },
+ {
+   "År": 2016,
+   "Ident": 18,
+   "Navn": "Ullandhaugskråningen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,764915148"
+ },
+ {
+   "År": 2016,
+   "Ident": 19,
+   "Navn": "Hillevåg",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,498698804"
+ },
+ {
+   "År": 2016,
+   "Ident": 20,
+   "Navn": "Bjergsted",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,353710548"
+ },
+ {
+   "År": 2016,
+   "Ident": 21,
+   "Navn": "Gramstadhaugen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,312413414"
+ },
+ {
+   "År": 2016,
+   "Ident": 22,
+   "Navn": "Bakkeland",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,32677387"
+ },
+ {
+   "År": 2016,
+   "Ident": 23,
+   "Navn": "23 Tastaveden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,801841092"
+ },
+ {
+   "År": 2016,
+   "Ident": 24,
+   "Navn": "Stokkadalen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,689710003"
+ },
+ {
+   "År": 2016,
+   "Ident": 25,
+   "Navn": "Ytre Eiganes",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,509501123"
+ },
+ {
+   "År": 2016,
+   "Ident": 26,
+   "Navn": "Øyane",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,309307438"
+ },
+ {
+   "År": 2016,
+   "Ident": 27,
+   "Navn": "Kråkeneset",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,513356307"
+ },
+ {
+   "År": 2016,
+   "Ident": 28,
+   "Navn": "Skeie",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,75693187"
+ },
+ {
+   "År": 2016,
+   "Ident": 29,
+   "Navn": "Kvitepynten",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,616416476"
+ },
+ {
+   "År": 2016,
+   "Ident": 30,
+   "Navn": "Prestastø",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,785498839"
+ },
+ {
+   "År": 2016,
+   "Ident": 31,
+   "Navn": "Hundvågkrossen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,065828118"
+ },
+ {
+   "År": 2016,
+   "Ident": 32,
+   "Navn": "Kalhag",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,555780732"
+ },
+ {
+   "År": 2016,
+   "Ident": 33,
+   "Navn": "Hinnalia",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,233776781"
+ },
+ {
+   "År": 2016,
+   "Ident": 34,
+   "Navn": "Storaberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,284400203"
+ },
+ {
+   "År": 2016,
+   "Ident": 35,
+   "Navn": "Godeset",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,489648823"
+ },
+ {
+   "År": 2016,
+   "Ident": 36,
+   "Navn": "Gausel",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "6,108933298"
+ },
+ {
+   "År": 2016,
+   "Ident": 37,
+   "Navn": "Hinna",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,987707705"
+ },
+ {
+   "År": 2016,
+   "Ident": 38,
+   "Navn": "Øvre Vaulen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "1,989151152"
+ },
+ {
+   "År": 2016,
+   "Ident": 39,
+   "Navn": "Auglend",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,903208086"
+ },
+ {
+   "År": 2016,
+   "Ident": 40,
+   "Navn": "Kristianslyst",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,695399644"
+ },
+ {
+   "År": 2016,
+   "Ident": 41,
+   "Navn": "Vaulen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,481449413"
+ },
+ {
+   "År": 2016,
+   "Ident": 42,
+   "Navn": "Mariero",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,881356508"
+ },
+ {
+   "År": 2016,
+   "Ident": 43,
+   "Navn": "Åsen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,715680544"
+ },
+ {
+   "År": 2016,
+   "Ident": 44,
+   "Navn": "Tjensvoll",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,876136341"
+ },
+ {
+   "År": 2016,
+   "Ident": 45,
+   "Navn": "Solborg",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,449784306"
+ },
+ {
+   "År": 2016,
+   "Ident": 46,
+   "Navn": "Øvre Tjensvoll",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,790869879"
+ },
+ {
+   "År": 2016,
+   "Ident": 47,
+   "Navn": "Madlamark",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,838477987"
+ },
+ {
+   "År": 2016,
+   "Ident": 48,
+   "Navn": "Jernaldergarden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,144077828"
+ },
+ {
+   "År": 2016,
+   "Ident": 49,
+   "Navn": "Madlalia",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,671753548"
+ },
+ {
+   "År": 2016,
+   "Ident": 50,
+   "Navn": "Stokka",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,318857222"
+ },
+ {
+   "År": 2016,
+   "Ident": 51,
+   "Navn": "Tastarustå",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,70166955"
+ },
+ {
+   "År": 2016,
+   "Ident": 52,
+   "Navn": "Molkeholen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,105654607"
+ },
+ {
+   "År": 2016,
+   "Ident": 53,
+   "Navn": "Madlaforen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,414719354"
+ },
+ {
+   "År": 2016,
+   "Ident": 54,
+   "Navn": "Sandal",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,064253265"
+ },
+ {
+   "År": 2016,
+   "Ident": 55,
+   "Navn": "Madlatuå",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,217901258"
+ },
+ {
+   "År": 2016,
+   "Ident": 56,
+   "Navn": "Smiodden",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,613669185"
+ },
+ {
+   "År": 2016,
+   "Ident": 57,
+   "Navn": "Mjug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,047019517"
+ },
+ {
+   "År": 2016,
+   "Ident": 58,
+   "Navn": "Ørnaberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,271967219"
+ },
+ {
+   "År": 2016,
+   "Ident": 59,
+   "Navn": "Sundekrossen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "8,822935411"
+ },
+ {
+   "År": 2016,
+   "Ident": 60,
+   "Navn": "Malthaug",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,716710452"
+ },
+ {
+   "År": 2016,
+   "Ident": 61,
+   "Navn": "Gjeraberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,382194193"
+ },
+ {
+   "År": 2016,
+   "Ident": 62,
+   "Navn": "Byhaugen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,957245073"
+ },
+ {
+   "År": 2016,
+   "Ident": 63,
+   "Navn": "63 Vardenes",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,427987412"
+ },
+ {
+   "År": 2016,
+   "Ident": 64,
+   "Navn": "64 Tastaforen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "7,959615007"
+ },
+ {
+   "År": 2016,
+   "Ident": 65,
+   "Navn": "Smiene",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,977074037"
+ },
+ {
+   "År": 2016,
+   "Ident": 66,
+   "Navn": " 66  Teinå  ",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,059822086"
+ },
+ {
+   "År": 2016,
+   "Ident": 67,
+   "Navn": "Forusstraen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,232533866"
+ },
+ {
+   "År": 2016,
+   "Ident": 68,
+   "Navn": "Husaberget",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "4,78686403"
+ },
+ {
+   "År": 2016,
+   "Ident": 69,
+   "Navn": "Boganes",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,739170735"
+ },
+ {
+   "År": 2016,
+   "Ident": 70,
+   "Navn": "Søra Bråde",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "2,380324882"
+ },
+ {
+   "År": 2016,
+   "Ident": 71,
+   "Navn": "Jåttåvågen",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "3,06041399"
+ },
+ {
+   "År": 2016,
+   "Ident": 99,
+   "Navn": "Uoppgitt",
+   "Indikator": "Alderstandardiserte dødsrater - Kvinner",
+   "Parameter": "Pr. 1000 innbygger",
+   "Variabel": "5,093199434"
+ }
+]
